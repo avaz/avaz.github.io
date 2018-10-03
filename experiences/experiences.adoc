@@ -1,0 +1,21 @@
+== Professional Experience
+
+include::teradata.adoc[]
+
+include::backbase.adoc[]
+
+include::uol.adoc[]
+
+include::indra.adoc[]
+
+include::nextel.adoc[]
+
+include::balance.adoc[]
+
+include::gelre.adoc[]
+
+include::joaomendes.adoc[]
+
+include::telefonica.adoc[]
+
+include::sbt.adoc[]

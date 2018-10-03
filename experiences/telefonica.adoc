@@ -1,0 +1,8 @@
+=== Telefonica
+.Customer Service Supervisor, August 1999 - October 2000 (1 year 3 months), São Paulo Area, Brazil
+
+Initially developed activities of Senior Technical Support Analyst seeking to solve critical, serious or complex problems related with Speedy & Multilink broadband products.
+
+In 9 months I became a supervisor of a staff of 20 people with the responsibility to do monitoring, action plans aimed at customer care quality and overall people management. During the period of supervision I performed parallel activities like the redesign of the analyst on board process, creating the training methodology and contents, the program has been redesigned from initial interview with the candidate to your his/her first  appointment.
+
+Also I created from scratch an intranet to provide services to the HelpDesk, the intranet provided dynamic communication between the help desk analyts with the back office department decreasing the time for the resolution of the critical issues by over 100%, also it provided a full set of configuration guidance on all major Operational System at time, including Linux, Windows 3.11, 95, 98, NT. The Intranet was created with ASP and Access database and Microsoft IIS webserver.

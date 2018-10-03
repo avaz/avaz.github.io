@@ -1,0 +1,4 @@
+=== Forum Joao Mendes
+.Mid-Senior Java Developer, November 2000 - May 2002 (1 year 7 months), São Paulo Area, Brazil
+
+include::joaomendes_projects.adoc[]

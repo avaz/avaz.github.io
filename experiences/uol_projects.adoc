@@ -1,0 +1,9 @@
+*Projects*
+
+*Project:* Commission System + 
+*Description:* A system to calculate and trigger the order of payment request for the UOL sales partners spread across entire Brazil. This system had to deal with a considerable amount of data which were all orders sold per month by each partner. At the time UOL had around 80 partners which in average were + 
+*Techs:* Java 5, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Git, Jetty.
+
+*Project:* Veridcad Fraud Prevention and Analysis System + 
+*Description:* A system to calculate and trigger the order of payment request for the UOL sales partners spread across entire Brazil. This system had to deal with a considerable amount of data which were all orders sold per month by each partner. At the time UOL had around 80 partners which in average were + 
+*Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Git, Jetty.

@@ -1,0 +1,9 @@
+=== Teradata
+.Principal Software Engineer, November 2017 - Present - Amsterdam
+Responsible to help customer to succeed on BigData and Artificial Intelligence (Deep Learning) projects.
+
+- Architect and deploy BigData data lakes based on Hadoop with orchestration and ingestion done by Kylo/NiFi and consumption with Kafka, Spark and others.
+- Architect 'AnalyticsOps' workflows which automate the process of test,
+train, deploy and 'champion/challenge' of machine learning models for a considerable amount of different tools and frameworks like TensorFlow/Keras, with model deployment of type K5, ONNX, PMML.
+
+include::teradata_projects.adoc[]

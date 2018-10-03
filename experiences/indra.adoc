@@ -1,0 +1,9 @@
+=== Indra
+.Senior Project Leader and Senior Solutions Architect, March 2011 - December 2012 (1 year 10 months), São Paulo Area, Brazil
+My main responsibilities as Senior Systems Architect is help improve teams in analysis, design and development of systems, do the main design of systems which included define the layers and the frameworks, define the supporting tools, organise the development process, implement complex systems process.
+
+My role as Project Leader is to manage the people related with the projects, estimate the projects cost, elaborate schedules, interact with the customers to understand the main scope of the projects and give feedback of the projects executions, control the whole project life cycle.
+
+I implanted and I'm the responsible of software development good practices based on agile techniques and so I made an impressive burst in the teams productivity.
+
+include::indra_projects.adoc[]

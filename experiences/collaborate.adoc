@@ -1,0 +1,6 @@
+=== Collaborate Web Conference
+.Senior Developer, May 2003 - March 2004 (11 months), São Paulo Area, Brazil
+
+I joined this small start up company to help the two founders and partners to build an online conference meeting platform with support for audio, video and slides. While a version of the platform was being done in the ASP/IIS I led the PoC of another version using Flash Communication Server.
+
+include::collaborate_projects.adoc[]

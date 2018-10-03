@@ -1,0 +1,27 @@
+*Projects*
+
+*Customer*: Cia Suzano de Papel e Celulose +
+*Project:* Portal RH +
+*Description:* Corporate Portal with focus on HR. Worked in the implementation of the needs gattered from the stakeholders. +
+*Techs:* Java, SAP Portal, Webdynpro, ABAP, SVN.
+
+*Customer*: Cia Suzano de Papel e Celulose + 
+*Project:* Sistema Excelência +
+*Description:* System that has several modules like: a module that allows employees of Suzano Papel e Celulose offer ideas for process improvement, cost reduction, quality of life, environmental responsibility, etc. A module to provide a means to manage documents with control of approval from different levels. A control module for the Audit of internal processes. + 
+*Techs:* Tapestry, BIRT, Spring Framework, Log4J, EhCache, Hibernate, Tomcat, SAP Portal, Ant, SVN.
+
+*Customer:* C&A + 
+*Project:* DESEMBOLSO + 
+*Description:* A friendly web interface targetted to the retail users to avoid make them use SAP/R3 GUI, the interface allowed the subsidiaries of C&A perform operational applications to the matrix. The web interface was just a proxy to the function modules created by me in SAP. The idea was to streamline the ordering process of the subsidiaries without providing all infrastructure SAP/R3 GUI to them. +
+*Techs:* Spring Framework, Struts, Log4J, JCO, ABAP, Hibernate, Tomcat, Oracle, Ant, SVN.
+
+*Customer:* Claro Telecommunications +
+*Project:* Market Data Integration +
+*Description:* Integrating Claro Online Store with the Claro Clube Loyalty Program. + 
+*Attributions:* I built the Web Services communication between the loyalty program provider, Marketdata, with the Claro Clube Loyalty Program. This integration allowed the maintenance of the customer personal data and the visualiszation of the total points covered that a customer had accumulated in the program. +
+*Techs:* Java, Spring Framework, Struts, Apache Axis, Weblogic, Oracle, Ant, SVN.
+
+*Customer:* Rossi Residencial + 
+*Project:* ROSSI VENDAS +
+*Description:* Carrying out maintenance and development of new system features supporting the sales kiosks. +
+*Techs:* Struts, BIRT, JBPM, CeWolf, SQL Server 2000, Hibernate, ABAP, SVN.

@@ -1,0 +1,11 @@
+.Projects
+
+*Project:* Logistic Portal +
+*Customer:* TIM Telecommunications Brazil + 
+*Description:* A platform to integrate multiple point of sale systems to into one to handle all the logistic matters. The platform handled the creation of an order until its delivery. When I joined this project was in a bad shape with no good management, implemention or process in place. I managed and led a team of 8 people to rebuilt this platform being responsible for the overall architecture, scalability and performance goals. Also I deployed an agile way of work and good practices which levarage use of better software development tools like Git and Maven. Enforced a Test Driven Development and coach the team understand and apply those methodologies. In a timeframe of 3 months the team came up with better develiveries and we regained the customer satisfaction. +
+*Techs:* Java 5, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Git, Nexus.
+
+*Project:* VIVO Loyalty Program Plaftform +
+*Customer*: VIVO Telecommunications Brazil + 
+*Description:* A platform to calculate the points of customers in the Vivo Telecommunications Loyalty Program. This project was done in house by Vivo and lately they decide to out source the maintenance to Indra. I managed the transition, first understandind the overall system architecture, execution and infrastructure. Also created the transition schedule with the Vivo management together with the main goals and then I assembled a team on the Indra side to execute the migration and finally I managed the migration being the main point of contact between Indra and Vivo to ensure quality. The platform was successfully migrated and later the same team, led by, was responsable to implement new requirements and improvements.  +
+*Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, Git.

@@ -1,0 +1,3 @@
+*Project:* Partilha Online +
+*Description:* WebIntratnet tool for creating online sharing, the system  allows creating, editing, sharing all the calculations related to a financial share related with marriage break up. +
+*Techs:* JSP / Servlets, MySQL, Tomcat

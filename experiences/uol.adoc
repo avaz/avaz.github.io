@@ -1,0 +1,13 @@
+=== UOL
+.Project Coordinator and Solution Architect, January 2013 - January 2014 (1 year 1 month), São Paulo Area, Brazil
+My main responsibilities is to coach teams, design and implement systems, do trainings, suggest and make prove of concept of new frameworks and tools trying to improve overall productivity of the team that I work with.
+
+*Some of my main accomplishments:* 
+
+- Managed teams simultaneously delegating tasks and coordinating releases of different projects.
+- Resolved the main problem with one of the projects while leading the team with other tasks.
+- Influenced other teams to use new technologies, practices and tools.
+- Negotiated new features to stakeholders.
+- Reduced about ~30% of the operational cost of the revenue assurance department.
+
+include::uol_projects.adoc[]
