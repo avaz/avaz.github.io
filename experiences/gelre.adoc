@@ -1,6 +1,6 @@
 === Gelre Trabalhos Temporários
 .Senior Java System Analyst, March 2003 - December 2005 (2 years 10 months), São Paulo Area, Brazil
 
-This company I had a great experience on how team work can make things happen. I worked together with other 20 people to implement a in house ERP system for the 3 companies of the Gelre group. We discussed and tested different approaches for software development, test, quality assurance, deploy, etc.
+In this company I had a great experience on how team work can make things happen. I worked together with other 20 people to implement an in house ERP system for the 3 companies of the Gelre group. We constantly discussed and tested different approaches for software development, test, quality assurance, deploy, etc.
 
 include::gelre_projects.adoc[]

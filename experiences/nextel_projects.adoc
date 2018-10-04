@@ -1,11 +1,13 @@
 .Projects
-*Project:* Pre Paid SMS Billing Platform +
-*Description:* A platform to consume unstructure pre paid CDR files data, calculate the amount due per customer and ingest into the main Nextel Billing Platform Ericsson Billing Support and Control System (BSCS). I architected and implemented this platform from scratch handling all the data processing, wragling and ingestion. This was a heavy data processing platform which I assured scalability, performance and data integratiy. +
-*Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
 
-*Project:* Service Platform +
-*Description:* A platform to apply targetted promotions to customers based on their mobile devices. A platform that consumed data from CDR and based on the IMEI used on a phone call or sms message to enable promotions to customers. I architected and implemented the whole platform, handling the CDR consumption, parsing and wragling, and afterwards applying the configured promotion based on the device found in the CDR. This was a heavy data processing platform which I assured scalability, performance and data integratiy. +
-*Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
+*Project:* Pre Paid SMS Billing Platform +
+    *Description:* A platform to consume unstructure pre paid CDR files data, calculate the amount due per customer and ingest into the main Nextel Billing Platform Ericsson Billing Support and Control System (BSCS). I architected and implemented this platform from scratch handling all the data processing, wragling and ingestion. This was a heavy data processing platform which I assured scalability, performance and data integratiy. +
+    *Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
+
+.Project:
+Service Platform +
+    *Description:* A platform to apply targetted promotions to customers based on their mobile devices. A platform that consumed data from CDR and based on the IMEI used on a phone call or sms message to enable promotions to customers. I architected and implemented the whole platform, handling the CDR consumption, parsing and wragling, and afterwards applying the configured promotion based on the device found in the CDR. This was a heavy data processing platform which I assured scalability, performance and data integratiy. +
+    *Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
 
 *Project:* SHIFT - Fraud Analytis and Prevention + 
 *Description:* A platform to help Nextel Revenue Assurance department to analysis and prevent fraud. This systems was actually developed by Nextel Argentina. I was the architect responsible for the manage on the technical side the migration to the Brazilian market. First in Argentina I understood the overall system architecture, execution and infrastructure, then I prepared the same requirements on Nextel Brazil infrastrucure and finally I did the migration, deploying the platform on Nextel Brazil and adapting all the rules to the Brazilian market. +
