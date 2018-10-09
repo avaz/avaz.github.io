@@ -1,18 +1,32 @@
-.Projects
+==== Projects
 
-*Project:* Pre Paid SMS Billing Platform +
-    *Description:* A platform to consume unstructure pre paid CDR files data, calculate the amount due per customer and ingest into the main Nextel Billing Platform Ericsson Billing Support and Control System (BSCS). I architected and implemented this platform from scratch handling all the data processing, wragling and ingestion. This was a heavy data processing platform which I assured scalability, performance and data integratiy. +
-    *Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
+===== Pre Paid SMS Billing Platform
 
-.Project:
-Service Platform +
-    *Description:* A platform to apply targetted promotions to customers based on their mobile devices. A platform that consumed data from CDR and based on the IMEI used on a phone call or sms message to enable promotions to customers. I architected and implemented the whole platform, handling the CDR consumption, parsing and wragling, and afterwards applying the configured promotion based on the device found in the CDR. This was a heavy data processing platform which I assured scalability, performance and data integratiy. +
-    *Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
+.Description
+A platform to consume pre paid CDR files data, calculate the amount due per customer for SMS use and ingest this information into the main platform Ericsson Billing Support and Control System (BSCS). I architected and implemented this platform from scratch handling all the data processing, wriggling and ingestion. This was a heavy data processing platform which I assured scalability, performance and data integrity. 
 
-*Project:* SHIFT - Fraud Analytis and Prevention + 
-*Description:* A platform to help Nextel Revenue Assurance department to analysis and prevent fraud. This systems was actually developed by Nextel Argentina. I was the architect responsible for the manage on the technical side the migration to the Brazilian market. First in Argentina I understood the overall system architecture, execution and infrastructure, then I prepared the same requirements on Nextel Brazil infrastrucure and finally I did the migration, deploying the platform on Nextel Brazil and adapting all the rules to the Brazilian market. +
-*Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
+.Techs
+Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS
 
-*Project:* Traffic Analysis +
-*Description:* A platform to monitoring and ensure that each one of the CDR files. +
-*Techs:* Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.
+===== Service Platform
+
+.Description
+A platform to apply targeted promotions to customers based on their mobile devices. The platform consumes CDR files and based on the IMEI used on a phone call or sms message enables promotions to customers. I architected and implemented the whole platform, handling the CDR consumption, parsing and wrangling, and afterwards applying the configured promotion based on the device found in the CDR. This was a heavy data processing platform which I assured scalability, performance and data integrity.
+
+.Techs
+Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS
+
+===== SHIFT - Fraud Analysis and Prevention
+.Description
+A platform to help Nextel Revenue Assurance department to analysis and prevent fraud. This systems was actually developed by Nextel Argentina. I was the architect responsible for the manage on the technical side the migration to the Brazilian market. First in Argentina I understood the overall system architecture, execution and infrastructure, then I prepared the same requirements on Nextel Brazil infrastructure and finally I did the migration, deploying the platform on Nextel Brazil and adapting all the rules to the Brazilian market.
+
+.Techs
+Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS
+
+===== Traffic Analysis
+
+.Description:
+A platform to monitoring and ensure that each one of the CDR files that arrived for billing would make into the billing platform (BSCS). The are some stages that a CDR file pass through until finally the services use described on it gets billed. This kept a track of each file showing on which stage in the chain it was triggering alarms in case of a a file stayed in the same stage for a configured threshold.
+
+.Techs
+Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS.

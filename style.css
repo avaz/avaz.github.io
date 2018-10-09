@@ -1,4 +1,20 @@
+@import url(http://cdnjs.cloudflare.com/ajax/libs/font-awesome/3.2.0/css/font-awesome.css);
+@import url(https://unpkg.com/purecss@1.0.0/build/pure-min.css);
+/* @import url(https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css); */
+
 .article {
-    font-family: 'Courier New', Courier, monospace;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 1em
+}
+.sect3 .paragraph {
+    display: flex;
+}
+
+.sect3 .paragraph .title {
+    flex: 10%;
+    margin-right: 10px;
+}
+.sect3 .paragraph > p {
+    flex: 90%;
+    margin: 0;
 }

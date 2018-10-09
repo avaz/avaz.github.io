@@ -1,5 +1,12 @@
 = Anderson Duarte Vaz
-Principal Software Engineer/Senior Delivery Lead in BigData, Machine Learning at Think Big Analytics, a Teradata Company, Amsterdam Area, Netherlands
+:stylesheet: asciidoctor.css
+:linkcss:
+
+[cols="2",frame=none,grid=none]
+|===
+a|include::headline.adoc[]
+a|include::contact.adoc[]
+|===
 
 include::summary.adoc[]
 

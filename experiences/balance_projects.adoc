@@ -1,31 +1,71 @@
-*Projects*
+==== Projects
 
-*Customer*: Cia Suzano de Papel e Celulose +
-*Project:* Portal RH +
-*Description:* Corporate RH Portal, with features like company news, payslip access, vaccation requests, etc.
-*Attributions:* I implemented several of the portal features. +
-*Techs:* Java, SAP Portal, Webdynpro, ABAP, SVN.
+===== Portal RH
 
-*Customer*: Cia Suzano de Papel e Celulose + 
-*Project:* Sistema Excelência +
-*Description:* A system to enable employee engagement and transparency on the company processes. The system had several modules like: a module that allows employees of Suzano Papel e Celulose offer ideas for process improvement, cost reduction, quality of life or environmental responsibility. A module to provide a means to manage documents with approval control from different user levels. A control module to audit company internal processes. +
-*Attributions:* When I joined this system was implemented but wasn't performing well, a lot of bottle necks and low performance code were degrading the system. I worked on find those issues, fix them and restore system estability. Afterwards I worked on enhance the modules with new features. + 
-*Techs:* Java, Tapestry, BIRT, Spring Framework, Log4J, EhCache, Hibernate, Tomcat, SAP Portal, Ant, SVN.
+.Customer
+Cia Suzano de Papel e Celulose
 
-*Customer:* C&A + 
-*Project:* DESEMBOLSO + 
-*Description:* A friendly web interface aimed to the retail employees to avoid make them use SAP/R3 GUI, the interface allowed the subsidiaries of C&A perform operational applications to the matrix. The web interface was just a proxy to the function modules created in SAP. The idea was to streamline the ordering process of the subsidiaries without providing all infrastructure SAP/R3 GUI to them. +
-*Attributions:* I created the web interface, integrate it with SAP Function Modules and created the SAP Function Modules as well. Did the whole system implementation.
-*Techs:* Java, Spring Framework, Struts, Log4J, JCO, ABAP, Hibernate, Tomcat, Oracle, Ant, SVN.
+.Description
+Corporate RH Portal, with features like company news, payslip access, vacation requests, etc.
 
-*Customer:* Claro Telecommunications +
-*Project:* Market Data Integration +
-*Description:* Integrating Claro Online Store with the Claro Clube Loyalty Program. + 
-*Attributions:* I built the Web Services communication between the loyalty program provider, Marketdata, with the Claro Clube Loyalty Program. This integration allowed the maintenance of the customer personal data and the total points visualisation  that a customer had accumulated in the program. +
-*Techs:* Java, Spring Framework, Struts, Apache Axis, Weblogic, Oracle, Ant, SVN.
+.Attributions
+When I joined this project was partially implemented with the main tools, frameworks and features implemented. I helped to implement several other portal features and improve the existent ones.
 
-*Customer:* Rossi Residencial + 
-*Project:* ROSSI VENDAS +
-*Description*: A system for the salesman to be used in the apartments showcase points of sale. The main goal was allow the prospect creation by the sales team when in an apartments show case. + 
-*Attributions:* Carrying out maintenance and development of new system features supporting the sales kiosks. +
-*Techs:* Java, Struts, BIRT, JBPM, CeWolf, SQL Server 2000, Hibernate, ABAP, SVN.
+.Techs
+Java, SAP Portal, Webdynpro, ABAP, SVN
+
+==== Sistema Excelência
+
+.Customer
+Cia Suzano de Papel e Celulose
+
+.Description
+A system to enable employee engagement and transparency on the company processes. The system had several modules like: a module that allows employees of Suzano Papel e Cellulose to offer ideas for the company processes improvement, cost reduction, quality of life or environmental responsibility. A module to provide a means to manage documents with approval control from different user levels. A control module to audit company internal processes.
+
+.Attributions
+When I joined this system was implemented but wasn't performing well, a lot of bottle necks and low performance code were degrading the system. I worked on find those issues, fix them and restore system stability. Afterwards I worked on enhance the modules with new features.
+
+.Techs
+Java, Tapestry, BIRT, Spring Framework, Log4J, EhCache, Hibernate, Tomcat, SAP Portal, Ant, SVN.
+
+===== DESEMBOLSO
+
+.Customer
+C&A
+
+.Description
+A friendly web interface aimed to the retail employees to avoid make them use SAP/R3 GUI, the provided web interface allowed the subsidiaries of C&A perform operational applications to the matrix. The web interface was just a proxy to the function modules created in SAP. The idea was to streamline the ordering process of the subsidiaries without providing all infrastructure SAP/R3 GUI to them.
+
+.Attributions
+I created the web interface, integrate it with SAP Function Modules and created the SAP Function Modules as well. Did the whole system implementation.
+
+.Techs
+Java, Spring Framework, Struts, Log4J, JCO, ABAP, Hibernate, Tomcat, Oracle, Ant, SVN
+
+===== Market Data Integration
+
+.Customer
+Claro Telecommunications
+
+.Description
+Integrating Claro Online Store with the Claro Clube Loyalty Program.
+
+.Attributions
+I built the Web Services communication between the loyalty program provider, Marketdata, with the Claro Clube Loyalty Program. This integration allowed the maintenance of the customer personal data and the total points visualisation  that a customer had accumulated in the program.
+
+.Techs
+Java, Spring Framework, Struts, Apache Axis, Weblogic, Oracle, Ant, SVN.
+
+===== ROSSI VENDAS
+
+.Customer
+Rossi Residencial
+
+.Description
+A system for the sales team to be used in the apartments points of sale showcase to facilitate the prospect creation and follow up.
+
+.Attributions
+Carrying out maintenance and development of new system features supporting the sales kiosks.
+
+.Techs
+Java, Struts, BIRT, JBPM, CeWolf, SQL Server 2000, Hibernate, ABAP, SVN

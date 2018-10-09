@@ -1,33 +1,29 @@
-== Summary
 
-I work in the software development segment for more than 15 years, based on projects that I got implanted I've acquired huge and solid knowledge in developing, building and architecture software. In most of these years I worked with Java Platform based systems, so I have secured knowledge in Java but also in plenty others programming languages as Ruby, Python, Javascript.
+[cols="2", frame=none, grid=none]
+|===
+
+a|.Summary
+
+I work in the software development segment for more than 15 years and 6+ years professional projects and teams management, based on projects that I got implanted I've acquired huge and solid knowledge in developing, building and architecture software. In most of these years I worked with Java Platform based systems, so I have secured knowledge in Java but also in plenty others programming languages as Ruby, Python, Javascript.
 
 I have practical experience and conceptual knowledge of good development practices like refactoring, testing, create readable and clean code. I know that short development iterations and a closer stakeholder always ensures much of the success of a software project.
 
 Besides I know many of frameworks I always try to solve the problems based on a good algorithm where a minimum framework use will be necessary, by this way always the solution will be more simple and easy to manage.
 
+//From monolith to micro services, from SOA to ReST (and GraphQL), from native to virtualised to containers, from structured data to unstructured data together with their databases. I try to keep my self up to date with industries standards and good practices while keeping an eye on what's coming next.
+
 *Techs don't solve problems, people do.*
 
-.Some of my key skills:
+a|.Some of my key skills:
 
 * A passion for cutting-edge Software Technologies
-+
-From monolith to microservices, from SOA to ReST (and GraphQL), from native to virtualized to containers, from structured data to unstructured data together with their databases. I try to keep my self up to date with industries standards and good practices while keeping an eye on what's comming next.
-
-* 12+ years professional software engineering, developmenta and architecture experience and 6+ years professional projects and teams management
-+
-I work professionally since 2000.
-
-* Deep knowledge in Continuous Delivery and Integration
-* Know very well the use VM's, Containers and such tools orchestration.
-* Very strong experience with Maven, Gradle and automate workflow for build and delivery software.
-* Very strong understanding of Web Browser Technologies, both new and old.
-* Very strong understanding of Object Oriented Analysis and Design.
-* Very strong communication skills.
+* Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries and best practices.
 * Very strong experience with TDD/BDD.
-* Very strong knowledge in data processing, ingestion wragling technologies for structured and unstructured data like SQL and NOSQL databases, Hadoop, Spark, Kafka.
-* Very strong experience with source control tools like Git and others.
-* Very strong mentorship skills.
+* Know very well CI/CD and the use of tools like Git/SNV, Source Respository Github/lab/bitbucket, Maven/Gradle, Nexus/Bamboo, Ansible, VM/Containers.
+* Very strong communication skills and strong mentorship skills.
+* Very strong knowledge in data processing, ingestion and wrangling and technologies for structured and unstructured data like SQL and NOSQL databases, BigData/Hadoop, Streaming Spark/Kafka.
 * Very strong understanding of best practices for Software Security.
-* Considerable knowledge in BigData concept, tools and deployment.
-* Considerable knowledge in currently landscape of AI/ML/DL concept, libraries, tools and overall workflow.
+* Strong understanding in cloud computing and experience in the major ones as AWS and Google Cloud.
+* Considerable knowledge in currently landscape of Machine Learning concept, libraries, tools and overall workflow.
+
+|===

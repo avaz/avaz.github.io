@@ -1,6 +1,6 @@
 == Education
 
-[cols=2*,options="header"]
+[cols=2*,options="header", grid=none,frame=none]
 |===
 ^| Student
 ^| Professor/Instructor
@@ -10,11 +10,11 @@ Fundação Getúlio Vargas São Paulo +
 2010 - 2011 + 
 https://educacao-executiva.fgv.br/
 | *Graduate Studies Professor* + 
-Senac + 
+Senac São Paulo + 
 2010 - 2011 + 
 http://www.sp.senac.br
 
-| *Bachelor's in Computer and Information Sciences* +
+.2+| *Bachelor's in Computer and Information Sciences* +
 Pontifícia Universidade Católica de São Paulo +
 1999 - 2004 + 
 https://www.pucsp.br/graduacao/ciencia-da-computacao
@@ -23,8 +23,7 @@ Oracle Brazil +
 2008 - Present* + 
 https://education.oracle.com/java/java/pFamily_48 + 
 * _I'm living in Netherlands, back in Brazil I'm still an Oracle instructor_
-
-| 
+ 
 | *Java/SAP ABAP Certified Instructor* +
 Impacta Tecnologia + 
 2004 - 2008 +
@@ -39,29 +38,44 @@ https://www.impacta.com.br
 ^| Certifications
 ^| Courses
 
-| Sun (Oracle) Certified Web Components for Java Platform
-| *Hadoop Operations: Hadoop Administration Foundation* +
-Horton Works/Teradata, 2018
+|*Certified Web Components for Java Platform +
+Certified Programmer for Java Platform +
+Certified Associate for Java Platform*
 
-| Sun Certified Programmer for Java Platform
+_Oracle (former Sun) University, 2006_
+|*Hadoop Operations: Hadoop Administration Foundation*
+
+_Hortonworks/Teradata, 2018_
+
+.5+|*SAP Certified Instructor for SAP Technologies +
+SAP Netweaver Workbench for ABAP*
+
+_SAP University and Instructors Program, 2008_
 | *MongoDB Aggregation Framework (M121)* +
-Mongo University, 2016
+*MongoDB for DBAs (M102)* +
+*MongoDB for Java Developers (M101J)*
 
-| Sun Certified Associate for Java Platform
-| *MongoDB for DBAs (M102)* +
-Mongo University, 2016
+_Mongo University, 2016_
 
-| SAP Certified Instructor for SAP Technologies +
-SAP Instructors Program, 2008
-| *MongoDB for Database Administrators* +
-Mongo University, 2016
 
-| SAP Netweaver Workbench for ABAP +
-SAP University, 2008
-| *MongoDB for Java Developers (M101J)* +
-Mongo University, 2016
+|*COBIT - Auditing IT Systems*
 
-|
-| *MongoDB for NodeJS Developers* +
-Mongo University, 2016
+_Galegale & Associates, 2011_
+
+
+|*ReST from Scratch +
+Continuous Delivery (by Martin Fowler and Jez Humble)*
+
+_QCon Conference Workshops, 2010_
+
+
+|*Web Application Security Training*
+
+_Bonsai Information Security, 2010_
+
+
+|*Introduction to TCP/IP Architecture*
+
+_Telefonica Brazil, 2006_
+
 |===

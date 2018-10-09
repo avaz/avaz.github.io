@@ -1,4 +1,12 @@
-*Project:* S.I.G. - Sistemas Integrados Gelre +
-*Description:* A system that integrate the all companies of the Gelre Group: Atra, Gelre Trabalhos Temporários and Central de Estágios. The system offered means to achieve common business processes, processes that involve maintenance of the employees register, benefits management, financial control, reports, user authentication and authorization. + 
-*Attributions:* Worked with a team of 20 people implementing different requirements of each module and strongly collaborating to improve and expand the architecture inherent in the system. +
-*Techs:* Java, Apache FOP, Websphere, Oracle.
+==== Projects
+
+===== S.I.G. - Sistemas Integrados Gelre (Integrated Gelre Systems)
+
+.Description
+A system that integrate the all companies of the Gelre Group: Atra, Gelre Trabalhos Temporários and Central de Estágios. The system offered means to achieve common business processes, processes that involve maintenance of the employees register, benefits management, financial control, reports, user authentication and authorization.
+
+.Attributions
+Worked with a team of 20 people implementing different requirements of each module and strongly collaborating to improve and expand the architecture inherent in the system.
+
+.Techs
+Java, Apache FOP, Websphere, Oracle.

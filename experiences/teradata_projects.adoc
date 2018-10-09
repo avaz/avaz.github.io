@@ -1,14 +1,31 @@
-*Projects*
+==== Projects
 
-*Project*: Cognitive Platform +
-*Customer:* Major Spanish Bank (Name under NDA) + 
-*Description:* A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise through machine learning image recognition models the type of the document, split it apart in different sub images, apply OCR to gather the text from the model and other machine learning models identify things like ticked check boxes to afterwards with all the information captured send it to the proper Bank system for further processing.
-This project led to a huge savings in money and time for the Bank by a significant decrease in manual and error prone processing. + 
-*Attributions:* I was responsible for create what was called as a 'Model Management Framework' component whose goal was to create an functional abstraction layer between the data scientists and the whole automated infrastructure. The MMF orchestrated all the steps neede to create a machine model such as testing, training, deploy and releasing. Applying strategies as 'Champion/Challenger' with multi model deployment. Together with the framework a business user interface was created for the data scientist trigger training, deployments and releases for the models managed by the framework. + 
-*Techs:* Python, AWS Cloud, Tensorflow, Keras, Jenkis, Bamboo, Nexus, Kafka, HBase, Docker, Ansible.
+===== Cognitive Platform
 
-*Project:* Open CSAM (Open Cyber Security Awareness Machine) + 
-*Customer:* ENISA European Union - https://www.enisa.europa.eu/
-*Description:* An artificial intelligence enabled Cyber Security Awareness Machine. This system index cyber security information from different sources and apply NLP and Knowledge Graph techniques to enable query the information in a more human friendly way. + 
-*Attributions:* I helped to define the base architecture, implemented the content gathering spiders, implemented the user interface and managed as a whole the technical aspects of the project. + 
-*Techs:* Python, Elastic Search, Covalent (Angular), NLP, Machine Learning, Knowledge Graph, Docker, Ansible, AWS.
+.Customer
+Major Spanish Bank (Name under NDA)
+
+.Description:
+A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise through machine learning image recognition models the type of the document, split it apart in different sub images, apply OCR to gather the text from the model and other machine learning models identify things like ticked check boxes to afterwards with all the information captured send it to the proper Bank system for further processing.
+This project led to a huge savings in money and time for the Bank by a significant decrease in manual and error prone processing.
+
+.Attributions:
+I was responsible for create what was called as a 'Model Management Framework' component whose goal was to create a functional abstraction layer between the data scientists and the whole automated infrastructure. The MMF orchestrated all the steps needed to create a machine model such as testing, training, deploy and releasing. Applying strategies as 'Champion/Challenger' with multi model deployment. Together with the framework a business user interface was created for the data scientist trigger training, deployments and releases for the models managed by the framework.
+
+.Techs:
+Python, AWS Cloud, Tensorflow, Keras, Jenkis, Bamboo, Nexus, Kafka, HBase, Docker, Ansible
+
+[#teradata_open_csam]
+===== Open CSAM (Open Cyber Security Awareness Machine)
+
+.Customer:
+ENISA European Union - https://www.enisa.europa.eu/
+
+.Description:
+An artificial intelligence enabled Cyber Security Awareness Machine. This system index cyber security information from different sources and apply NLP and Knowledge Graph techniques to enable query the information in a more human friendly way. Allowing the user to full text search the gathered information and create awareness report to spread throughout European Union.
+
+.Attributions:
+I helped to define the base architecture, managed the Elastic Search cluster, implemented the content scrapping web spiders, implemented the user interface and managed as a whole the technical aspects of the project.
+
+.Techs:
+Python, Elastic Search, Covalent (Angular), NLP, Machine Learning, Knowledge Graph, Docker, Ansible, AWS.

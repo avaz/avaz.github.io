@@ -1,3 +1,12 @@
-*Project:* COLLABORATE Web Conference +
-*Description:* Build a Web-Conference tool that provides a way transmit audio and video by internet while is showing a slide deck presentation. I did all object oriented analysis, design and implementation of the application. +
-*Techs:* Flash Communication Server and Flash Action Script Server, ASP, IIS.
+==== Projects
+
+===== COLLABORATE Web Conference
+
+.Description
+Build a Web-Conference tool that provides a way transmit audio and video by internet while is showing a slide deck presentation.
+
+.Attributions
+I did all object oriented analysis, design and implementation of the application.
+
+.Techs
+Flash Communication Server and Flash Action Script Server, ASP, IIS
