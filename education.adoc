@@ -33,7 +33,7 @@ https://www.impacta.com.br
 
 == Specializations
 
-[cols=2*,options="header"]
+[cols=2*,options="header", grid=none,frame=none]
 |===
 ^| Certifications
 ^| Courses

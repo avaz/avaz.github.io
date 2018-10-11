@@ -4,13 +4,13 @@
 
 a|.Summary
 
-I work in the software development segment for more than 15 years and 6+ years professional projects and teams management, based on projects that I got implanted I've acquired huge and solid knowledge in developing, building and architecture software. In most of these years I worked with Java Platform based systems, so I have secured knowledge in Java but also in plenty others programming languages as Ruby, Python, Javascript.
+I work in the software development segment for more than 15 years and 6+ years professional projects and teams management, based on projects that I got implanted I've acquired huge and solid knowledge in developing, building and architecture software. In most of these years I worked with Java Platform based systems, so I have secured knowledge in Java but also in plenty others programming languages as Ruby, Python, Java(ECMA)script.
 
 I have practical experience and conceptual knowledge of good development practices like refactoring, testing, create readable and clean code. I know that short development iterations and a closer stakeholder always ensures much of the success of a software project.
 
 Besides I know many of frameworks I always try to solve the problems based on a good algorithm where a minimum framework use will be necessary, by this way always the solution will be more simple and easy to manage.
 
-//From monolith to micro services, from SOA to ReST (and GraphQL), from native to virtualised to containers, from structured data to unstructured data together with their databases. I try to keep my self up to date with industries standards and good practices while keeping an eye on what's coming next.
+From monolith to micro services, from SOA to ReST (and GraphQL), from native to virtualised to containers, from structured data to unstructured data together with their databases. I try to keep my self up to date with industries standards and good practices while keeping an eye on what's coming next.
 
 *Techs don't solve problems, people do.*
 
