@@ -6,7 +6,7 @@
 Major Spanish Bank (Name under NDA)
 
 .Description:
-A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise through machine learning image recognition models the type of the document, split it apart in different sub images, apply OCR to gather the text from the model and other machine learning models identify things like ticked check boxes to afterwards with all the information captured send it to the proper Bank system for further processing.
+A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise its  the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text and by use other machine learning models it identify things like ticked check boxes, afterwards with all the information captured send it to the proper Bank system for further processing.
 This project led to a huge savings in money and time for the Bank by a significant decrease in manual and error prone processing.
 
 .Attributions:
@@ -15,7 +15,6 @@ I was responsible for create what was called as a 'Model Management Framework' c
 .Techs:
 Python, AWS Cloud, Tensorflow, Keras, Jenkis, Bamboo, Nexus, Kafka, HBase, Docker, Ansible
 
-[#teradata_open_csam]
 ===== Open CSAM (Open Cyber Security Awareness Machine)
 
 .Customer:
@@ -28,4 +27,4 @@ An artificial intelligence enabled Cyber Security Awareness Machine. This system
 I helped to define the base architecture, managed the Elastic Search cluster, implemented the content scrapping web spiders, implemented the user interface and managed as a whole the technical aspects of the project.
 
 .Techs:
-Python, Elastic Search, Covalent (Angular), NLP, Machine Learning, Knowledge Graph, Docker, Ansible, AWS.
+Python, Elastic Search, Covalent (Angular), NLP, Machine Learning, Knowledge Graph, Docker, Ansible, AWS Cloud.
