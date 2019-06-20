@@ -1,4 +1,4 @@
 image:https://en.gravatar.com/userimage/10449283/164a9d450f33064d36b5150eb633ad50.jpg?size=100[Avatar,100,100,float="left",align="center"]
-&#160; _Principal Software Engineer in BigData and Machine Learning_ +
+&#160; _Lead Software Engineer in BigData and Machine Learning_ +
 &#160; _Teradata_ +
 &#160; _Amsterdam Area, Netherlands_ +

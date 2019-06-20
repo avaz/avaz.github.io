@@ -1,5 +1,19 @@
 ==== Projects
 
+===== Backschema Prognose
+
+.Customer
+LiDL Germany
+
+.Description:
+A plataform to generate forecast through Machine Learning of bakering articles for LiDL stores. The system generate the final backing schema with the information per interval of how many baking articles should be baked by using Machine Learning techniques was possible to predict ideal quantities for preserving sales and decrese waste. The expected savings in waster decrease is ~4Mi € per year making this a significant project for the company.
+
+.Attributions:
+I was responsible for create what was called as a 'Model Management Framework' help the LiDL team with Software Architecture and DevOps applying good pratics and patterns of software engineering and as well implement functional parts of the project as Model Features (Features Engineering), data ingestion, wrangling and overall business rules. All this tied to a normal Machine Learning project workflow model creation, training, validation and scoring.
+
+.Techs:
+Python, Hadoop, Spark, ScikitLearn, Pandas, Luigi, Jenkins
+
 ===== Cognitive Platform
 
 .Customer
