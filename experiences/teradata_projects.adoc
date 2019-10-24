@@ -6,10 +6,15 @@
 LiDL Germany
 
 .Description:
-A plataform to generate forecast through Machine Learning of bakering articles for LiDL stores. The system generate the final backing schema with the information per interval of how many baking articles should be baked by using Machine Learning techniques was possible to predict ideal quantities for preserving sales and decrese waste. The expected savings in waster decrease is ~4Mi € per year making this a significant project for the company.
+A plataform to generate forecast of bakering articles through Machine Learning for LiDL stores. The platform generate the forecast of how many baking articles should be baked in a given day, by use Machine Learning techniques was possible to predict ideal quantities while preserving sales and decrese waste. The expected savings in waste decrease is ~4Mi € per year making this a significant project for the company.
 
 .Attributions:
-I was responsible for create what was called as a 'Model Management Framework' help the LiDL team with Software Architecture and DevOps applying good pratics and patterns of software engineering and as well implement functional parts of the project as Model Features (Features Engineering), data ingestion, wrangling and overall business rules. All this tied to a normal Machine Learning project workflow model creation, training, validation and scoring.
+We were a multifunctional agile team using scrum to achieve the business goals. Therefore I acted in different fronts on this project. Key things that I was responsible was:
+- Improve performance on several modules in order to meet SLA's.
+- Define CI/CD workflows where I create environments like DEV, QA and PROD and defined the release cycle and deployment among those environments.
+- Support the team on how to proper use Hadoop and Spark for more performant and resources friendly consumption.
+- Code reviews
+- Write tests for the platform key modules
 
 .Techs:
 Python, Hadoop, Spark, ScikitLearn, Pandas, Luigi, Jenkins
@@ -17,7 +22,7 @@ Python, Hadoop, Spark, ScikitLearn, Pandas, Luigi, Jenkins
 ===== Cognitive Platform
 
 .Customer
-Major Spanish Bank (Name under NDA)
+Bankia
 
 .Description:
 A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise its  the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text and by use other machine learning models it identify things like ticked check boxes, afterwards with all the information captured send it to the proper Bank system for further processing.
