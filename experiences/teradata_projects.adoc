@@ -10,6 +10,7 @@ A plataform to generate forecast of bakering articles through Machine Learning f
 
 .Attributions:
 We were a multifunctional agile team using scrum to achieve the business goals. Therefore I acted in different fronts on this project. Key things that I was responsible was:
+
 - Improve performance on several modules in order to meet SLA's.
 - Define CI/CD workflows where I create environments like DEV, QA and PROD and defined the release cycle and deployment among those environments.
 - Support the team on how to proper use Hadoop and Spark for more performant and resources friendly consumption.
