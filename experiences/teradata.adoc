@@ -1,4 +1,4 @@
-=== Teradata
+=== Teradata - https://www.teradata.com
 .Lead Software Engineer, November 2017 - Present - Amsterdam
 Responsible to help customer to succeed on BigData and Artificial Intelligence (Deep Learning) projects.
 

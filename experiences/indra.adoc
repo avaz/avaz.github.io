@@ -1,4 +1,4 @@
-=== Indra
+=== Indra - https://www.indracompany.com
 .Senior Project Leader and Senior Solutions Architect, March 2011 - December 2012 (1 year 10 months), São Paulo Area, Brazil
 My main responsibilities as Senior Systems Architect is help improve teams in analysis, design and development of systems, do the main design of systems which included define the layers and the frameworks, define the supporting tools, organise the development process, implement complex systems process.
 

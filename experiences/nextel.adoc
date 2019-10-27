@@ -1,4 +1,4 @@
-=== Nextel Telecommunications Brazil
+=== Nextel Telecommunications Brazil - http://nextel.com.br
 .Billing Department System's Architect, November 2006 - July 2010 (3 years 9 months), São Paulo Area, Brazil
 
 I had a large presence in the Billing department as responsible for many applications development, implementation and follow up in production, and collaborated with colleagues offering support and development tips. I was responsible for deployment of Maven in all department. Using the most robust standards and frameworks of Java technology I created an SOA infrastructure for applications that I was responsible and over time this architecture is now being utilised by other members of the department. I was responsible for raising the requirements with users and define how best way to implement them. I acted as development leader. I had great contact and learned a lot about the Billing System BSCS, know what they are and how the main database tables are structured, ex: clients, services, plans, contracts.
