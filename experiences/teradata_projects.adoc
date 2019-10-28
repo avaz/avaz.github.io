@@ -3,7 +3,7 @@
 ===== Backschema Prognose
 
 .Customer
-LiDL Germany
+LiDL Germany - https://www.lidl.com/
 
 .Description:
 A plataform to generate forecast of bakering articles through Machine Learning for LiDL stores. The platform generate the forecast of how many baking articles should be baked in a given day, by use Machine Learning techniques was possible to predict ideal quantities while preserving sales and decrese waste. The expected savings in waste decrease is ~4Mi € per year making this a significant project for the company.
@@ -23,7 +23,7 @@ Python, Hadoop, Spark, ScikitLearn, Pandas, Luigi, Jenkins
 ===== Cognitive Platform
 
 .Customer
-Bankia
+Bankia Spain - https://www.bankia.com/en/
 
 .Description:
 A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise its  the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text and by use other machine learning models it identify things like ticked check boxes, afterwards with all the information captured send it to the proper Bank system for further processing.
