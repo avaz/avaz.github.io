@@ -3,7 +3,7 @@
 ===== Portal RH
 
 .Customer
-Cia Suzano de Papel e Celulose
+Cia Suzano de Papel e Celulose - http://www.suzano.com.br
 
 .Description
 Corporate RH Portal, with features like company news, payslip access, vacation requests, etc.
@@ -17,7 +17,7 @@ Java, SAP Portal, Webdynpro, ABAP, SVN
 ==== Sistema Excelência
 
 .Customer
-Cia Suzano de Papel e Celulose
+Cia Suzano de Papel e Celulose - http://www.suzano.com.br
 
 .Description
 A system to enable employee engagement and transparency on the company processes. The system had several modules like: a module that allows employees of Suzano Papel e Cellulose to offer ideas for the company processes improvement, cost reduction, quality of life or environmental responsibility. A module to provide a means to manage documents with approval control from different user levels. A control module to audit company internal processes.
@@ -31,7 +31,7 @@ Java, Tapestry, BIRT, Spring Framework, Log4J, EhCache, Hibernate, Tomcat, SAP P
 ===== DESEMBOLSO
 
 .Customer
-C&A
+C&A - https://www.cea.com.br
 
 .Description
 A friendly web interface aimed to the retail employees to avoid make them use SAP/R3 GUI, the provided web interface allowed the subsidiaries of C&A perform operational applications to the matrix. The web interface was just a proxy to the function modules created in SAP. The idea was to streamline the ordering process of the subsidiaries without providing all infrastructure SAP/R3 GUI to them.
@@ -45,7 +45,7 @@ Java, Spring Framework, Struts, Log4J, JCO, ABAP, Hibernate, Tomcat, Oracle, Ant
 ===== Market Data Integration
 
 .Customer
-Claro Telecommunications
+Claro Telecommunications - https://www.claro.com.br
 
 .Description
 Integrating Claro Online Store with the Claro Clube Loyalty Program.
@@ -59,7 +59,7 @@ Java, Spring Framework, Struts, Apache Axis, Weblogic, Oracle, Ant, SVN.
 ===== ROSSI VENDAS
 
 .Customer
-Rossi Residencial
+Rossi Residencial - http://www.rossiresidencial.com.br
 
 .Description
 A system for the sales team to be used in the apartments points of sale showcase to facilitate the prospect creation and follow up.
