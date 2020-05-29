@@ -14,7 +14,7 @@ Senac São Paulo +
 2010 - 2011 + 
 http://www.sp.senac.br
 
-.2+| *Bachelor's in Computer and Information Sciences* +
+.2+| *Bachelor's in Computer Sciences* +
 Pontifícia Universidade Católica de São Paulo +
 1999 - 2004 + 
 https://www.pucsp.br/graduacao/ciencia-da-computacao
