@@ -1,2 +1,8 @@
 # CV
 https://avaz.github.io
+
+## Build
+
+```
+asciidoc -o index.html index.adoc
+```
