@@ -1,5 +1,5 @@
 === Teradata - https://www.teradata.com
-.Lead Software Engineer, November 2017 - Present - Amsterdam
+.Lead Software Engineer, November 2017 - March 2020 - Amsterdam, The Netherlands
 Responsible to help customer to succeed on BigData and Artificial Intelligence (Deep Learning) projects.
 
 - Architect and deploy BigData projects based on Hadoop with orchestration and ingestion done by Luigi, Airflow or Kylo/NiFi and consumption with Kafka, Spark and others.

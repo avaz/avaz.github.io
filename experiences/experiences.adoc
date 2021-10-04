@@ -1,5 +1,7 @@
 == Professional Experience
 
+include::taus.adoc[]
+
 include::teradata.adoc[]
 
 include::backbase.adoc[]
