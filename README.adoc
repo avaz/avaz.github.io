@@ -3,6 +3,15 @@ https://avaz.github.io
 
 ## Build
 
+### Install Asciidoctor
+```
+brew install asciidoctor
+```
+
+> Can also be `gem`
+
+### Run it
+
 ```
 asciidoc -o index.html index.adoc
 ```
