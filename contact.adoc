@@ -1,4 +1,4 @@
 .Contact
 
-Email: dev@andersonvaz.com +
+Email: anderson@taus.net +
 Linkedin: https://www.linkedin.com/in/andersonvaz/

@@ -6,14 +6,14 @@
 LiDL Germany - https://www.lidl.com/
 
 .Description:
-A plataform to generate forecast of bakering articles through Machine Learning for LiDL stores. The platform generate the forecast of how many baking articles should be baked in a given day, by use Machine Learning techniques was possible to predict ideal quantities while preserving sales and decrese waste. The expected savings in waste decrease is ~4Mi € per year making this a significant project for the company.
+A platform to generate forecast of baking articles through Machine Learning for LiDL stores. The platform generate the forecast of how many baking articles should be baked in a given day, by use Machine Learning techniques was possible to predict ideal quantities while preserving sales and decrease waste. The expected savings in waste decrease is ~4Mi € per year making this a significant project for the company.
 
 .Attributions:
-We were a multifunctional agile team using scrum to achieve the business goals. Therefore I acted in different fronts on this project. Key things that I was responsible was:
+We were a multifunctional agile team using scrum to achieve the business goals. Therefore, I acted in different fronts on this project. Key things that I was responsible was:
 
 - Improve performance on several modules in order to meet SLA's.
 - Define CI/CD workflows where I create environments like DEV, QA and PROD and defined the release cycle and deployment among those environments.
-- Support the team on how to proper use Hadoop and Spark for more performant and resources friendly consumption.
+- Support the team on how to properly use Hadoop and Spark for more performant and resources friendly consumption.
 - Code reviews
 - Write tests for the platform key modules
 
@@ -26,8 +26,8 @@ Python, Hadoop, Spark, ScikitLearn, Pandas, Luigi, Jenkins
 Bankia Spain - https://www.bankia.com/en/
 
 .Description:
-A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise its  the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text and by use other machine learning models it identify things like ticked check boxes, afterwards with all the information captured send it to the proper Bank system for further processing.
-This project led to a huge savings in money and time for the Bank by a significant decrease in manual and error prone processing.
+A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise its  the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text and by use other machine learning models it identifies things like ticked check boxes, afterwards with all the information captured send it to the proper Bank system for further processing.
+This project led to a huge savings in money and time for the Bank by a significant decrease in manual and error-prone processing.
 
 .Attributions:
 I was responsible for create what was called as a 'Model Management Framework' component whose goal was to create a functional abstraction layer between the data scientists and the whole automated infrastructure. The MMF orchestrated all the steps needed to create a machine model such as testing, training, deploy and releasing. Applying strategies as 'Champion/Challenger' with multi model deployment. Together with the framework a business user interface was created for the data scientist trigger training, deployments and releases for the models managed by the framework.
@@ -41,7 +41,7 @@ Python, AWS Cloud, Tensorflow, Keras, Jenkis, Bamboo, Nexus, Kafka, HBase, Docke
 ENISA European Union - https://www.enisa.europa.eu/
 
 .Description:
-An artificial intelligence enabled Cyber Security Awareness Machine. This system index cyber security information from different sources and apply NLP and Knowledge Graph techniques to enable query the information in a more human friendly way. Allowing the user to full text search the gathered information and create awareness report to spread throughout European Union.
+Artificial intelligence enabled Cyber Security Awareness Machine. This system index cyber security information from different sources and apply NLP and Knowledge Graph techniques to enable query the information in a more human friendly way. Allowing the user to full text search the gathered information and create awareness report to spread throughout European Union.
 
 .Attributions:
 I helped to define the base architecture, managed the Elastic Search cluster, implemented the content scrapping web spiders, implemented the user interface and managed as a whole the technical aspects of the project.

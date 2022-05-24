@@ -1,29 +1,23 @@
-
 [cols="2", frame=none, grid=none]
 |===
 
 a|.Summary
+C-Level professional with 15+ experience with a solid technical background and a strong business management skills. Worked for a variety of different industries and performed a range of different roles from functional,  managerial, and executive. Holds a Major in Computer Sciences, a Master in Business Administration with specialisation in Enterprise Management and comprehensive set of industry technology certifications and specializations. Proven experience in build high performance agile teams and define lean business processes and strategic thinking.
 
-I work in the software development segment for more than 15 years and 6+ years teams management, based on projects that I got implanted in production I've acquired huge and solid knowledge in developing, building and architecture software. In most of these years I worked with Java Platform based systems, so I have secured knowledge in Java but also in plenty others programming languages as Ruby, Python, Java(ECMA)script.
+Notable recent professional experiences are LiDL Germany where worked in build a machine learning pipeline to training models with 1TB+ of information weekly. Models were used to predict quantity pastry articles required to bake for the 3 baking batches for LiDL stores all around the world. This led to savings in waste up to €4mi annually. For European Union ENISA division created artificial intelligence enabled Cyber Security Awareness Machine. This system index cyber security information from different sources and apply NLP and Knowledge Graph techniques to enable query the information in a more human friendly way. Allowing the user to full text search the gathered information and create awareness report to spread throughout European Union.
 
-I have practical experience and conceptual knowledge of good development practices like refactoring, testing, create readable and clean code. I know that short development iterations and a closer stakeholder always ensures much of the success of a software project.
+Currently, holds the Chief Technology Officer position at TAUS coming from Principal Software Engineer. At TAUS led the company data and digital transformation by creating a Data Architecture to support currently over 1TB of TAUS and Customers Language Data with focus in serveless technology. Deployed microservices architecture in the company IT in order to increase business domains scalability in a controlled manner. Defined several business processes to decrease company operational cost. Promoted the culture of knowledge sharing which allowed the company interchange people across projects and needs thus increasing the IT range operation without need to hire more people. Led the digital transformation project which totally revamp TAUS service and website technologies allowing the company to go digital faster than ever before. Continuously defines the right set of services and technologies for IT to use in order to match with the business goals keeping the company competitive and teams up to data with what matters. Helps in mentor team members in new technologies though workshops and PoC's.
 
-Besides I know many of frameworks I always try to solve the problems with simple ideas where a minimum framework use will be necessary, by this way always the solution will be more simple and easy to manage.
-
-From monolith to micro services, from SOA to ReST (and GraphQL), from native to virtualised to containers, from structured data to unstructured data together with their databases. I try to keep my self up to date with industries standards and good practices while keeping an eye on what's coming next.
-
-*Techs don't solve problems, people do.*
-
-a|.Some of my key skills:
+a|.Some Key Skills:
 
 * A passion for cutting-edge Software Technologies
-* Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries and best practices.
+* Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)Script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries and best practices.
 * Very strong experience with TDD/BDD.
-* Know very well CI/CD and the use of tools like Git/SNV, Source Respository Github/lab/bitbucket, Maven/Gradle, Nexus/Bamboo, Ansible, VM/Containers.
+* Know very well CI/CD and the use of tools like Git, Source Repository Github/lab/bitbucket, Maven/Gradle, Nexus/Bamboo, Ansible, VM/Containers, Github Actions/Jenkins.
 * Very strong communication skills and strong mentorship skills.
 * Very strong knowledge in "ETL", Data transformation, Data wrangling, Data processing and Data Engineering and technologies for structured and unstructured data like SQL and NOSQL databases, BigData/Hadoop, Streaming Spark/Kafka.
 * Very strong understanding of best practices for Software Security.
 * Strong understanding in cloud computing and experience in the major ones as AWS and Google Cloud.
-* Considerable knowledge in currently landscape of Machine Learning concept, libraries, tools and overall workflow.
+* Strong knowledge of Machine Learning concept, libraries, tools and overall workflow.
 
 |===
