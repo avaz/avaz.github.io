@@ -13,5 +13,5 @@ brew install asciidoctor
 ### Run it
 
 ```
-asciidoc -o index.html index.adoc
+asciidoctor -o index.html index.adoc
 ```
