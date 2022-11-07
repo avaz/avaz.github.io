@@ -10,14 +10,14 @@ Currently, holds the Chief Technology Officer position at TAUS coming from Princ
 
 a|.Some Key Skills:
 
-* A passion for cutting-edge Software Technologies
 * Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)Script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries and best practices.
+* Considerable knowledge in Apple Swift/XCode and overall iOS/iPadOS, and Android ecosystems.
 * Very strong experience with TDD/BDD.
-* Know very well CI/CD and the use of tools like Git, Source Repository Github/lab/bitbucket, Maven/Gradle, Nexus/Bamboo, Ansible, VM/Containers, Github Actions/Jenkins.
+* Know very well CI/CD and the use of tools like Git, Source Repository Github/lab/bitbucket, Maven/Gradle, Ansible, VM/Containers, Github Actions/Jenkins.
 * Very strong communication skills and strong mentorship skills.
 * Very strong knowledge in "ETL", Data transformation, Data wrangling, Data processing and Data Engineering and technologies for structured and unstructured data like SQL and NOSQL databases, BigData/Hadoop, Streaming Spark/Kafka.
 * Very strong understanding of best practices for Software Security.
-* Strong understanding in cloud computing and experience in the major ones as AWS and Google Cloud.
-* Strong knowledge of Machine Learning concept, libraries, tools and overall workflow.
+* Very strong understanding in cloud computing and experience in the major ones as AWS and Google Cloud.
+* Very strong knowledge of Machine Learning concept, libraries, tools and overall workflow.
 
 |===
