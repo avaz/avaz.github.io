@@ -20,7 +20,7 @@ thus increasing the IT operation range without the need to hire additional perso
 I led the digital transformation project, which completely revamped TAUS's service and website technologies,
 enabling the company to publish content faster than ever before.
 I continuously define the right set of services and technologies for IT to use to align with business goals,
-keeping the company competitive and teams up-to-date with what matters.
+keeping the company competitive and teams up to date with what matters.
 I also assist in mentoring team members in new technologies through workshops and PoCs.
 
 Last but not least, I'm actively engaged in help to shape and define business,
@@ -33,7 +33,7 @@ Some past notable experiences are with LiDL Germany, where I contributed to buil
 
 a|.Some Key Skills:
 
-* Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)Script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries, and best practices. It Is not only about knowing these languages, is about being capable of building complete solutions with them.
+* Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)Script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries, and best practices. It is not only about knowing these languages, is about being capable of building complete solutions with them.
 * Exceptional mentoring and leadership skills. I lead through example, and I am a strong believer in servant leadership. In the past several years, I've been managing multidisciplinary teams with people of different seniority levels.
 * Strong knowledge in Machine Learning, Data Science, and Data Engineering. This is being my main focus in the past years. I'm not a data scientist though, I know about it more with the focus on operationalizing/productizing data science and machine learning models then craft the solution myself.
 * Strong believer and practitioner of Domain Driven Design, Clean Code, and Software Craftsmanship.
