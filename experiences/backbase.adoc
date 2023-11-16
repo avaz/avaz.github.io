@@ -1,8 +1,6 @@
 === Backbase - https://www.backbase.com
 .Chapter Lead/Senior Software Engineer, June 2016 - September 2017 (1 year 4 months), Amsterdam Area, Netherlands
 
-Responsible for lead teams to develop and deploy Backbase Portal projects to customers all over the world. Talk directly to customer senior management and architects in order to understand the requirements and implement those in the product. Also act as trainer and interact with RnD department to help enhance Backbase product as a whole. I executed Backbase projects all around the world like Switzerland, Mexico, United Kingdom, Thailand, Iceland.
+Responsible for lead teams to develop and deploy Backbase Portal projects to customers all over the world. Talk directly to customer senior management and architects in order to understand the requirements and implement those in the product. Also act as a trainer and interact with the RnD department to help enhance Backbase product as a whole. I executed Backbase projects all around the world like Switzerland, Mexico, United Kingdom, Thailand, Iceland.
 
-From Backbase CXP version 5.x to 6.x the underline architecture changed from monolith to microservices, I helped with this process by creating a library that would allow the version 5.x of the product to be deployed in a micro services architecture.
-
-include::backbase_projects.adoc[]
+From Backbase CXP version 5.x to 6.x the underline architecture changed from monolith to microservices, I helped with this process by creating a library that would allow the version 5.x of the product to be deployed in a microservices architecture.

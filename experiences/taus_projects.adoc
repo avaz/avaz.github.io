@@ -1,0 +1,88 @@
+==== Projects
+
+===== Data Marketplace
+https://datamarketplace.taus.net/
+
+An e-commerce platform to allow selling and buying Language Data (i.e., translations).
+The platform allows the user to upload a file with the data to be sold,
+define the price and additional metadata like domain and content-type.
+The platform also allows the user to buy data from other users.
+The platform is integrated with a payment gateway
+to allow the user to pay for the data and be paid when their data is sold.
+
+.Attributions:
+I was hired to create the platform from scratch.
+I developed it in a window of 5 months together with another developer.
+Out of this project was created the Data Language Architecture which currently is the main data architecture for the company.
+
+.Techs:
+Java, Spring, JPA, VueJS, AWS RDS, SNS, SQS, S3, Lambda, Stripe, Docker, Github, Github Actions, Gradle.
+
+===== Data Language Architecture
+
+A platform to allow ingestion, processing, and cleaning of Language Data (i.e., translations).
+The set of components that compose the platform comprises the core of the company's data architecture.
+Giving the nature of the data ingestion at TAUS was decided to take a serveless approach to the architecture.
+A file is uploaded to S3
+and a Lambda function is triggered which in turn check if up to certain threshold ECS tasks are running,
+if it is the lambda just forward the file information to a SQS queue which will be processed by the ECS task, if not the lambda will start a new ECS task to process the file and forward the message to the SQS queue.
+This is because files tend to be big and a strict clean process is needed to be applied to the data,
+which takes time and would exceed the 15-minutes limit of a lambda function.
+
+.Attributions:
+I implemented the whole architecture from scratch
+providing at the end a standard way to do data ingestion and an API to consume the data ingested.
+
+.Techs:
+Java, Spring, QueryDSL/SQL, Apache Camel, AWS Aurora, SNS, SQS, S3, Lambda, Docker, Github, Github Actions, Gradle.
+
+
+===== Digital Transformation
+
+The situation was the following, https://www.taus.net;
+the main company website was hosted by Joomla, an exceptional CMS platform.
+However, there was only one person in the company maintaining it and the person was not so happy.
+All the other engineers were working with Java and modern NodeJS frameworks.
+This wasn't interesting to anybody involved in this situation.
+After a thoughtful analysis, I made a plan,
+assembled a team of four people, two juniors, one senior, and I,
+and we moved on to create a new website with a new technology stack.
+The senior engineer was responsible for the backend,
+which included migrating user base from Joomla to a new database
+and also provides an API for authentication and corporate data.
+The juniors were responsible for the frontend and integrate with the new chosen CMS.
+In 2 development cycles (12 weeks) we were up and running with the website
+that is live to this day (https://www.taus.net),
+with support for product checkout integrated with several payment brokers.
+Giving the component-based approach taken to build the website, currently,
+business people can create new pages and components without the need for a developer in a fully decoupled way.
+The two juniors at the beginning of the project were operating like mid-seniors by the end.
+A lot of knowledge was transferred, and the team was able to deliver the project on time.
+
+.Attributions:
+I helped to define the base architecture, defined the technology stack,
+and more importantly, mentored the team to deliver the project.
+
+.Techs:
+Java, SpringBoot, VueJS/NuxtJS, Storyblok CMS, AWS ECS, RDS.
+
+
+===== Quality Estimate API
+
+This is the latest development at TAUS which I'm deeply involved.
+NLP team at TAUS found a way to measure the quality of translations done by machine engines like Google Translator,
+DeepL, etc. The idea is to provide a score between 0.0 and 1.0 to a translation base on several factors.
+This led to us to create a public API to allow users to send a translation and get a score back,
+thus automate localization processes which currently is our main service being used by several users processing millions of translations per month.
+
+.Attributions:
+I was responsible for the whole development of the API from scratch, excluding the Machine Learning model training.
+However, I implemented the whole model management process and the API to serve the model.
+
+.Techs:
+Python, FastAPI, AWS ECS, S3, Lambda, Docker, Github, Github Actions, Python Poetry.
+
+
+====== Other Projects
+
+Apart from the projects mentioned above, I was also involved in several other projects executed by several teams.

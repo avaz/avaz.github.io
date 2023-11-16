@@ -1,23 +1,47 @@
-[cols="2", frame=none, grid=none]
+[cols="1", frame=none, grid=none]
 |===
 
 a|.Summary
 C-Level professional with over 15 years of experience, possessing a solid technical background complemented by robust business management skills. I have worked across various industries, undertaking a diverse range of roles from functional and managerial to executive. I hold a Major in Computer Science, a Master's in Business Administration with a specialization in Enterprise Management, and a comprehensive set of industry technology certifications and specializations. I have proven experience in building high-performance agile teams, defining lean business processes, and strategic thinking.
 
-Notably, I have worked with LiDL Germany, where I contributed to building a machine learning pipeline that trained models with over 1TB of information weekly. These models were utilized to predict the quantity of pastry articles required for the three baking batches at LiDL stores worldwide. This initiative led to a significant reduction in waste, saving up to €4 million annually. Additionally, for the European Union ENISA division, I created an artificial intelligence-enabled Cyber Security Awareness Machine. This system indexed cyber security information from various sources and applied NLP and Knowledge Graph techniques to enable more human-friendly information querying. It allowed users to perform full-text searches of the gathered information and create awareness reports for distribution throughout the European Union.
+Currently, I hold the Chief Technology Officer position at TAUS,
+having previously served as Principal Software Engineer.
+At TAUS,
+I led the company's data and digital transformation
+by creating a Data Architecture to support over 1TB of TAUS and Customer Language Data,
+with a focus on serverless technology.
+I helped to deploy a software architecture which would favor simplicity and _boring_ tools and technologies in the company's IT infrastructure
+to allow increasing business domain scalability in a controlled manner.
+TAUS is a small company, but we deliver more than what is expected from a company of our size.
+I defined several business processes to decrease company operational costs and promoted a culture of knowledge sharing,
+which allowed the company to interchange people across projects and needs,
+thus increasing the IT operation range without the need to hire additional personnel.
 
-Currently, I hold the position of Chief Technology Officer at TAUS, having previously served as Principal Software Engineer. At TAUS, I led the company's data and digital transformation by creating a Data Architecture to support over 1TB of TAUS and Customer Language Data, with a focus on serverless technology. I deployed a microservices architecture within the company's IT infrastructure to increase business domain scalability in a controlled manner. I defined several business processes to decrease company operational costs and promoted a culture of knowledge sharing, which allowed the company to interchange people across projects and needs, thus increasing the IT operation range without the need to hire additional personnel. I led the digital transformation project, which completely revamped TAUS's service and website technologies, enabling the company to digitize faster than ever before. I continuously define the right set of services and technologies for IT to use to align with business goals, keeping the company competitive and teams up-to-date with what matters. I also assist in mentoring team members in new technologies through workshops and PoCs.
+I led the digital transformation project, which completely revamped TAUS's service and website technologies,
+enabling the company to publish content faster than ever before.
+I continuously define the right set of services and technologies for IT to use to align with business goals,
+keeping the company competitive and teams up-to-date with what matters.
+I also assist in mentoring team members in new technologies through workshops and PoCs.
+
+Last but not least, I'm actively engaged in help to shape and define business,
+I have a strong entrepreneurial mindset.
+I see technology as a tool to achieve business goals and business goals
+should always be well-defined; otherwise, no technology will fit.
+
+Some past notable experiences are with LiDL Germany, where I contributed to building a machine learning pipeline that trained models with over 1TB of information weekly. These models were utilized to predict the quantity of pastry articles required for the three baking batches at LiDL stores worldwide. This initiative led to a significant reduction in waste, saving up to €4 million annually. Additionally, for the European Union ENISA division, I created an artificial intelligence-enabled Cyber Security Awareness Machine. This system indexed cyber-security information from various sources and applied NLP and Knowledge Graph techniques to enable more human-friendly information querying. It allowed users to perform full-text searches of the gathered information and create awareness reports for distribution throughout the European Union.
+
 
 a|.Some Key Skills:
 
-* Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)Script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries and best practices.
-* Exceptional mentoring and leadership skills. I lead through example and I am a strong believer in servant leadership.
-* Very strong experience with TDD/BDD.
-* Know very well CI/CD and the use of tools like Git, Source Repository Github/lab/bitbucket, Maven/Gradle, VM/Containers, Github Actions/Jenkins.
-* Very strong communication skills and strong mentorship skills.
+* Comfortable in programming in Java (main language), Python, Ruby, Java(ECMA)Script, by comfortable means knowledge in the language syntax and semantics as its ecosystem of tools, libraries, and best practices. It Is not only about knowing these languages, is about being capable of building complete solutions with them.
+* Exceptional mentoring and leadership skills. I lead through example, and I am a strong believer in servant leadership. In the past several years, I've been managing multidisciplinary teams with people of different seniority levels.
+* Strong knowledge in Machine Learning, Data Science, and Data Engineering. This is being my main focus in the past years. I'm not a data scientist though, I know about it more with the focus on operationalizing/productizing data science and machine learning models then craft the solution myself.
+* Strong believer and practitioner of Domain Driven Design, Clean Code, and Software Craftsmanship.
+* I believe that automation is key in every successful software project. I have a strong background in DevOps and Infrastructure as Code. I am a strong believer in the "Infrastructure as Code" paradigm and the use of tools like AWS CDK, Terraform, Ansible, or similar.
+* Know very well CI/CD and the use of tools like Git, Source Repository Software like  Github/lab/Bitbucket, Maven/Gradle, VM/Containers, Github Actions/Jenkins.
+* Very strong communication skills. I am a good listener and a good speaker. I can communicate with people from different backgrounds and levels of knowledge. I've been acting as a training instructor for a great part of my career, I developed great communication skills.
 * Very strong knowledge in "ETL", Data transformation, Data wrangling, Data processing and Data Engineering and technologies for structured and unstructured data like SQL and NOSQL databases, BigData/Hadoop, Streaming Spark/Kafka.
 * Very strong understanding of best practices for Software Security.
-* Very strong understanding in cloud computing and experience in the major ones as AWS and Google Cloud.
-* Very strong knowledge of Machine Learning concept, libraries, tools and overall workflow.
+* Very strong understanding in cloud computing and experience in the major ones such as AWS and Google Cloud.
 
 |===

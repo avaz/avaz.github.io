@@ -10,5 +10,3 @@ My main responsibilities is to coach teams, design and implement systems, do tra
 - Influenced other teams to use new technologies, practices and tools.
 - Negotiated new features to stakeholders.
 - Reduced about ~30% of the operational cost of the revenue assurance department.
-
-include::uol_projects.adoc[]
