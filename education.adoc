@@ -63,7 +63,7 @@ _Mongo University, 2016_
 _Galegale & Associates, 2011_
 
 
-|*ReST from Scratch +
+|*ReST from Scratch (by Guilherme Silveira) +
 Continuous Delivery (by Martin Fowler and Jez Humble)*
 
 _QCon Conference Workshops, 2010_
