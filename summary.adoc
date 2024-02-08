@@ -23,7 +23,7 @@ Of course, I have created monolith applications and have experience with the str
 
 - *Storage/Databases/Cache*: I have solid knowledge of SQL, which helps me when working with various persistence technologies. I've used MySQL, PostgreSQL, SQLite, MongoDB, Hive, Pig, Hadoop, Memcache, Redis, DuckDB, and vector databases such as Milvus.
 
-- *Analytics*: I have an understanding of MapReduce, CDC concepts, ETL, data ingestion, cleaning, wrangling, transformation, analytics, and reporting/BI. I've worked with Apache Kafka/KSQLDB, (py)Spark, and Delta Lakes. Additionally, I'm familiar with
+- *Analytics*: I have an understanding of MapReduce, CDC concepts, ETL, data ingestion, cleaning, wrangling, transformation, analytics, and reporting/BI. I've worked with Apache Kafka/KSQLDB, (py)Spark, and Delta Lake. Additionally, I'm familiar with
 statistical analysis techniques. 
 
 - *DevOps/IaC*: I have experience with GitHub Actions, Jenkins, AWS CDK/CloudFormation, Terraform, Docker, Docker Compose, and Kubernetes.

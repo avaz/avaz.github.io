@@ -2,11 +2,8 @@
 :stylesheet: ./asciidoctor.css
 :linkcss:
 
-[cols="2",frame=none,grid=none]
-|===
-a|include::headline.adoc[]
-a|include::contact.adoc[]
-|===
+include::headline.adoc[]
+include::contact.adoc[]
 
 include::summary.adoc[]
 

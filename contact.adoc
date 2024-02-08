@@ -1,4 +1,14 @@
-.Contact
+[cols="2",frame=none,grid=none]
+|===
+|
+*Head of Data and Engineering* +
+_Amsterdam Area, Netherlands_ +
+|
+*Email*: dev@andersonvaz.com +
+*Linkedin*: https://www.linkedin.com/in/andersonvaz/ +
+*Github*: https://github.com/avaz
 
-Email: dev@andersonvaz.com +
-Linkedin: https://www.linkedin.com/in/andersonvaz/
+|
+
+|===
+
