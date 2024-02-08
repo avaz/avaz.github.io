@@ -1,7 +1,16 @@
 === Teradata - https://www.teradata.com
 .Lead Software Engineer, November 2017 - March 2020 - Amsterdam, The Netherlands
+
 Responsible to help customer to succeed on BigData and Artificial Intelligence (Deep Learning) projects.
 
 - Architect and deploy BigData projects based on Hadoop with orchestration and ingestion done by Luigi, Airflow or Kylo/NiFi and consumption with Kafka, Spark and others.
-- Architect 'AnalyticsOps' workflows which automate the process of test,
-train, deploy and 'champion/challenge' of machine learning models for a considerable amount of different tools and frameworks like, SparkML, SciKitLearn, TensorFlow/Keras, with model deployment of type K5, ONNX, PMML.
+- Architect 'AnalyticsOps' workflows which automate the process of test, train, deploy and 'champion/challenge' of machine learning models for a considerable amount of different tools and frameworks like, SparkML, SciKitLearn, TensorFlow/Keras, PyTorch with model deployment of type K5, ONNX, PMML.
+
+Significant projects:
+Working as a Senior Data Engineer for one of the world’s largest retailers in creating a platform to generate forecast for reducing waste in baked goods using Machine Learning and numerical optimization. Executed live A/B test in a European country with >500 stores for 6 months and reached 15% waste reduction and increased revenue. Solution has been rolled out in several countries and shall finally be used in >30 countries (>10k stores). The data pipeline for this project processed around 3TB of information.
+
+Technology stack includes: Python, PySpark, Hadoop, Hive, PyTorch, ScikitLearn.
+
+For one of the biggest Spain banks helped in create an end-to-end solution to streamlined paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise its the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text and by use other machine learning models it identifies things like ticked check boxes, afterward with all the information captured send it to the proper Bank system for further processing. This project led to significant savings in money and time for the Bank by a significant decrease in manual and error-prone processing. I worked in the MLOps part of the project.
+
+Technology stack includes: Python, PySpark, Hadoop, Hive, PyTorch, ScikitLearn.

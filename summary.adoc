@@ -3,7 +3,7 @@
 Hands-on Software Engineer with 16+ years of experience out of 8+ years in management leading teams 20+ software and machine learning engineers. Recently, I've been focusing on data engineering for machine learning projects, specifically in the area of Data Architectures with focus on MLOps and machine learning productization.
 
 == Skills
-Below is a list of tools, technologies, concepts and languages I've worked with and continue to have interest in. This is not an extensive list, but it gives an idea of what I feel comfortable working with:
+Below is a list of tools, technologies, concepts and languages I've worked with or that have interest in. This is not an extensive list, but it gives an idea of what I feel comfortable working with:
 
 - *Java*: Core, JPA/Hibernate/QueryDSL, JDBC, Bean Validation, NIO, Streams, Executor Service/Concurrency.
 I'm well-versed in the Spring framework and its various modules, such as Spring Boot, MVC, Security, Kafka, Camel, Data, Cloud, Rest Docs and others.
