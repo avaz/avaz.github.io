@@ -6,26 +6,26 @@
 ^| Professor/Instructor
 
 | *Master of Business Administration (MBA)* +
-Fundação Getúlio Vargas São Paulo +
-2010 - 2011 + 
+_Fundação Getúlio Vargas São Paulo +
+2010 - 2011_ +
 https://educacao-executiva.fgv.br/
 | *Graduate Studies Professor* + 
-Senac São Paulo + 
-2010 - 2011 + 
+_Senac São Paulo +
+2010 - 2011_ +
 http://www.sp.senac.br
 
 .2+| *Bachelor's in Computer Sciences* +
-Pontifícia Universidade Católica de São Paulo +
+_Pontifícia Universidade Católica de São Paulo_ +
 1999 - 2004 + 
 https://www.pucsp.br/graduacao/ciencia-da-computacao
 | *Java and Middleware Certified Instructor* +
-Oracle Brazil + 
+_Oracle Brazil_ +
 2008 - Present* + 
 https://education.oracle.com/java/java/pFamily_48 + 
-* _I'm living in Netherlands, back in Brazil I'm still an Oracle instructor_
+* _I'm living in the Netherlands, back in Brazil I'm still an Oracle instructor_
  
 | *Java/SAP ABAP Certified Instructor* +
-SAP + 
+_SAP_ +
 2004 - 2008 +
 https://www.sap.com
 
@@ -35,47 +35,85 @@ https://www.sap.com
 
 [cols=2*,options="header", grid=none,frame=none]
 |===
-^| Certifications
+^| Certifications/Accreditations
 ^| Courses
 
-|*Certified Web Components for Java Platform +
-Certified Programmer for Java Platform +
-Certified Associate for Java Platform*
+|
+*AWS Certified Cloud Practitioner* +
+https://www.credly.com/badges/6e80c9f1-6eaa-4ac2-b4c1-6b070b6207c7 +
 
-_Oracle (former Sun) University, 2006_
-|*Hadoop Operations: Hadoop Administration Foundation*
+|
+*Get Started with Machine Learning on Databricks +
+Get Started with Data Engineering on Databricks +
+Data Workloads with Repos and Workflows on Databricks +
+Data Analytics and Warehousing with Databricks SQL +
+Data Storage and Management with Delta Lake +
+Data Governance with Unity Catalog +
+Data Pipelines with Delta Live Tables +
+Generative AI Fundamentals +
+Streaming with Structured Streaming and Delta Live Tables* +
+_Databricks Academy_ +
+https://customer-academy.databricks.com
 
+|
+*Databricks - Academy Accreditation - Generative AI Fundamentals* +
+https://credentials.databricks.com/adb7bbb9-985a-4f99-950b-3814dd9adf2c
+|
+*Introduction to Data Engineering* +
+https://www.coursera.org/account/accomplishments/verify/ZQ2D56H7BFPF
+
+
+|
+*Databricks - Academy Accreditation - Lakehouse Fundamentals* +
+https://credentials.databricks.com/a8fb7f4f-544c-450a-b7ae-94b61f1663e9
+|
+*Teradata - Intro to Vantage* +
+https://www.credly.com/badges/68d53e4f-5993-4ddc-88d9-3e29d029dfca/linked_in_profile +
+
+
+|
+*Confluent Fundamentals Accreditation* +
+https://www.credential.net/ea52a54e-2989-4a91-bcbe-2d1e0d64d144#gs.4q45ly
+|
+*Hadoop Operations: Hadoop Administration Foundation* -
 _Hortonworks/Teradata, 2018_
 
-.5+|*SAP Certified Instructor for SAP Technologies +
-SAP Netweaver Workbench for ABAP*
-
-_SAP University and Instructors Program, 2008_
-| *MongoDB Aggregation Framework (M121)* +
+|
+*Certified Web Components for Java Platform +
+Certified Programmer for Java Platform +
+Certified Associate for Java Platform* +
+_Oracle (former Sun) University, 2006_
+|
+*MongoDB Aggregation Framework (M121)* +
 *MongoDB for DBAs (M102)* +
-*MongoDB for Java Developers (M101J)*
-
+*MongoDB for Java Developers (M101J)* +
 _Mongo University, 2016_
 
-
-|*COBIT - Auditing IT Systems*
-
+|
+*SAP Certified Instructor for SAP Technologies +
+SAP Netweaver Workbench for ABAP +*
+_SAP University and Instructors Program, 2008_
+|
+*COBIT - Auditing IT Systems* +
 _Galegale & Associates, 2011_
 
-
-|*ReST from Scratch (by Guilherme Silveira) +
-Continuous Delivery (by Martin Fowler and Jez Humble)*
-
+|
+|
+*ReST from Scratch (by Guilherme Silveira) +
+Continuous Delivery (by Martin Fowler and Jez Humble)* +
 _QCon Conference Workshops, 2010_
 
-
-|*Web Application Security Training*
-
+|
+|
+*Web Application Security Training* +
 _Bonsai Information Security, 2010_
 
-
-|*Introduction to TCP/IP Architecture*
-
+|
+|
+*Introduction to TCP/IP Architecture* +
 _Telefonica Brazil, 2006_
 
 |===
+
+
+

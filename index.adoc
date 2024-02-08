@@ -10,7 +10,7 @@ a|include::contact.adoc[]
 
 include::summary.adoc[]
 
-include::education.adoc[]
-
 include::experiences/experiences.adoc[]
+
+include::education.adoc[]
 

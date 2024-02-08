@@ -1,5 +1,5 @@
 === TAUS - https://taus.net
-.Chief Technology Officer, March 2020 - Present, Amsterdam, The Netherlands
+.Head of Data and Engineering, March 2020 - Present, Amsterdam, The Netherlands
 
 At TAUS, I’m in charge of the whole engineering and data teams, I oversee everything that is created and align our technologies with the business goals. But what this really means is that I’m one of the actual doers, I don’t just communicate and explain the need but I also design and help to shape how it will look like technically speaking, a very hands-on position and attitude. I’m responsible for designing and implementing most of our core Data Architecture entirely based on serverless pipelines. I’m the head of a multidisciplinary and multipolyglot teams made of back and front enders and NLP research and analysts, working in different fronts that come together delivering production-ready products.
 Initially,

@@ -1,5 +1,28 @@
 ==== Projects
 
+===== Quality Estimate API
+
+Designed Machine Learning operations workflow
+where machine learning engineers can training models using GPUs or CPUs in a cost-effective manner
+using tools that favours serverless and affordable infrastructure machine instances,
+with support for job save and resuming and knowledge sharing among the team members.
+This greatly improves our Machine Learning/NLP researching projects and operations.
+
+Architected and implemented TAUS Quality Estimate API which process 50mi+ characters daily.
+The solution offers metrics scoring that evaluates how good is a machine translation.
+This is the company's flagship product
+with used by big tech customers in ride-sharing and transportation network industry,
+fraud prevention services, LSP's and others.
+It's a HTTP API with a MLOps workflow, developed using Python, PyTorch, Poetry, AWS EC2+GPU.
+
+.Attributions:
+I was responsible for the whole development of the API from scratch, excluding the Machine Learning model training.
+However, I implemented the whole model management process and the API to serve the model.
+
+.Techs:
+Python, FastAPI, AWS ECS, EC2(GPU), S3, Lambda, Docker, Github, Github Actions, Python Poetry.
+
+
 ===== Data Marketplace
 https://datamarketplace.taus.net/
 
@@ -67,22 +90,6 @@ and more importantly, mentored the team to deliver the project.
 Java, SpringBoot, VueJS/NuxtJS, Storyblok CMS, AWS ECS, RDS.
 
 
-===== Quality Estimate API
-
-This is the latest development at TAUS which I'm deeply involved.
-NLP team at TAUS found a way to measure the quality of translations done by machine engines like Google Translator,
-DeepL, etc. The idea is to provide a score between 0.0 and 1.0 to a translation base on several factors.
-This led to us to create a public API to allow users to send a translation and get a score back,
-thus automate localization processes which currently is our main service being used by several users processing millions of translations per month.
-
-.Attributions:
-I was responsible for the whole development of the API from scratch, excluding the Machine Learning model training.
-However, I implemented the whole model management process and the API to serve the model.
-
-.Techs:
-Python, FastAPI, AWS ECS, S3, Lambda, Docker, Github, Github Actions, Python Poetry.
-
-
 ====== Other Projects
 
-Apart from the projects mentioned above, I was also involved in several other projects executed by several teams.
+Apart from the projects mentioned above, I was also involved in several other projects executed by several teams with attributions that range from specification definition, design, QA, and development.

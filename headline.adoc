@@ -1,4 +1,4 @@
 image:https://en.gravatar.com/avatar/c103500fd0666470fda0f5c4ece93ee5?s=200[Avatar,100,100,float="left",align="center"]
-&#160; _Chief Technology Officer_ +
+&#160; _Head of Data and Engineering_ +
 &#160; _TAUS_ +
 &#160; _Amsterdam Area, Netherlands_ +
