@@ -1,6 +1,6 @@
 [cols="1", frame=none, grid=none]
 
-Hands-on Software Engineer with 16+ years of experience out of 8+ years in management leading teams 20+ software and machine learning engineers. Recently, I've been focusing on data engineering for machine learning projects, specifically in the area of Data Architectures with focus on MLOps and machine learning productization.
+Hands-on Software Engineer with 17+ years of experience out of 8+ years in management leading teams 20+ software and machine learning engineers. Recently, I've been focusing on data engineering for machine learning projects, specifically in the area of Data Architectures with focus on MLOps and machine learning productization. I hold a major in Computer Sciences and a Master in Business Administration.
 
 == Skills
 Below is a list of tools, technologies, concepts and languages I've worked with or that have interest in. This is not an extensive list, but it gives an idea of what I feel comfortable working with:
@@ -20,6 +20,8 @@ Of course, I have created monolith applications and have experience with the str
 - *Integration*: Apache Camel, CXF, web/HTTP/ReST APIs.
 
 - *Data Engineering*: Batch, streaming, data pipelines, and data lakes, Databricks lakehouse (medallion pattern), data warehouses and data modeling.
+
+- *Business Intelligence*: Databricks Visualization support, Tableu, Hex, Evidence, Apache Superset.
 
 - *Storage/Databases/Cache*: I have solid knowledge of SQL, which helps me when working with various persistence technologies. I've used MySQL, PostgreSQL, SQLite, MongoDB, Hive, Pig, Hadoop, Memcache, Redis, DuckDB, and vector databases such as Milvus.
 
