@@ -1,17 +1,21 @@
-# CV
+= CV
 https://avaz.github.io
 
-## Build
+== Requirements
 
-### Install Asciidoctor
-```
-brew install asciidoctor
-```
+=== Install Asciidoctor
 
-> Can also be `gem`
+[https://nixos.org]
 
-### Run it
+=== Setup environment
+[source]
+----
+nix develop
+----
 
-```
+=== Build the page
+
+[source]
+----
 asciidoctor -o index.html index.adoc
-```
+----
