@@ -1,13 +1,14 @@
 === Backbase - https://www.backbase.com
 .Chapter Lead/Senior Software Engineer, June 2016 - September 2017 (1 year 4 months), Amsterdam Area, Netherlands
 
-Responsible for lead teams to develop and deploy Backbase Portal projects to customers all over the world. Talk directly to senior management and architects in order to understand the requirements and implement those in the product. Also act as trainer and interact with RnD department to help enhance Backbase product as a whole.
+Responsible for lead teams to develop and deploy Backbase Portal projects to customers all over the world. Talk directly to senior management and architects to understand the requirements and implement those in the product. Also act as a trainer and interact with the RnD department to help enhance Backbase product as a whole.
 
 From Backbase CXP version 5.x to 6.x the underline architecture changed from monolith to microservices, I helped with this process by creating a library that would allow the version 5.x of the product to be deployed in a microservices architecture.
 
 Engaged in several successful pre-sales efforts which led to big contracts for the company.
 
-Some of projects that I helped with includes:
+Some of the projects that I helped with include:
+
 - Banamex, Mexico: I led a complete revamp of Banamex's customer onboarding experience.
 - MetroBank, London: I deployed and mentored the MetroBank team in using the Backbase solution.
 - Valiant Bank, Switzerland: I executed a full Backbase project, including implementation, deployment, and production support.
