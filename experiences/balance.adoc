@@ -1,6 +1,6 @@
 === Balance Consulting
 .Senior Java/ABAP Consultant, December 2005 - December 2006 (1 year 1 month), São Paulo Area, Brazil
 
-I joined this consulting firm as a Senior Java Consultant and due my exposure to a set of different SAP/ABAP projects soon I got experience with it and after 10 months I was a certified SAP/ABAP professional.
+I joined this consulting firm as a Senior Java Consultant and due to my exposure to a set of different SAP/ABAP projects soon I got experience with it, and after 10 months I was a certified SAP/ABAP professional.
 
 include::balance_projects.adoc[]

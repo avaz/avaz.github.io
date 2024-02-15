@@ -30,6 +30,8 @@ statistical analysis techniques.
 
 - *DevOps/IaC*: I have experience with GitHub Actions, Jenkins, AWS CDK/CloudFormation, Terraform, Docker, Docker Compose, and Kubernetes.
 
+- *MLOps*: Custom MLOps pipelines, Iterative/DVC/TPI, MLflow, Ray.io, AWS SageMaker, and Databricks MLflow.
+
 - *Infrastructure/Cloud*: I'm most experienced with AWS and have run several production workloads with autoscale support, following the Well-Architected Framework, also, I know managed services like AWS Glue, Redshift, AppFlow, Lambda, SNS, SQS, S3, ECS, EC2(GPU), Aurora/RDS, CodeCommit/Deploy. I know very well Google Cloud and services like BigQuery, Cloud Storage, Cloud Spanner, and Cloud Functions, Monitoring, Compute. On Azure I have basic knowledge of services like Azure Functions, Azure Storage, Azure SQL, Azure DevOps, and Azure Kubernetes Service. I have knowledge with monitoring and logging tools like AWS CloudWatch, Google Cloud Monitoring, Grafana, and Prometheus.
 
 == Recent projects:
