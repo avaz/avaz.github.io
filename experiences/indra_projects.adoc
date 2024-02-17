@@ -9,7 +9,7 @@ TIM Telecommunications Brazil - https://www.tim.com.br/
 A platform to integrate multiple point of sale systems to into one to handle all the logistic matters. The platform handled the creation of an order until its delivery.
 
 .Attributions
-When I joined this project was in a bad shape with no good management, implementation or process in place. I managed and led a team of 8 people to rebuilt this platform being responsible for the overall architecture refactoring, scalability and performance improvements. Also I deployed an agile way of work applying good software development practices which leveraged significantly the team and project performance. Was enforced a Test Driven Development coaching the team to understand and apply those methodologies. In a timeframe of 3 months the team came up with better deliveries and we regained the customer satisfaction.
+When I joined this project was in a bad shape with no good management, implementation or process in place. I managed and led a team of 8 people to rebuild this platform being responsible for the overall architecture refactoring, scalability, and performance improvements. Also, I deployed an agile way of work applying good software development practices which leveraged significantly the team and project performance. Was enforced a Test Driven Development coaching the team to understand and apply those methodologies. In a timeframe of 3 months, the team came up with better deliveries, and we regained the customer satisfaction.
 
 .Techs
 Java 5, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Git, Nexus
@@ -20,10 +20,11 @@ Java 5, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Git, Nexus
 VIVO Telecommunications Brazil - https://www.vivo.com.br/para-voce
 
 .Description
-A platform to calculate the points of customers in the Vivo Telecommunications Loyalty Program. This project was done in house by Vivo and lately they decide to out source the maintenance to Indra.
+Vivo Telecommunications Customer Loyalty Program platform. This project was done in house by Vivo and lately they decide to out source the maintenance to Indra.
 
 .Attributions
-I managed the transition of this platform from VIVO maintenance to Indra, first understanding the overall system architecture, execution and infrastructure then created the transition schedule with the Vivo management and then I assembled a team on the Indra side to execute the migration and finally I managed the migration being the main point of contact between Indra and Vivo to ensure quality. The platform was successfully migrated and later the same team, led by me, was responsible to implement new requirements and improvements.
+I managed the transition of this platform from Vivo maintenance to Indra, first understanding the overall system architecture, execution and infrastructure, then created the transition schedule with the Vivo management team, and then I assembled a team on the Indra side to execute the migration, and finally I managed the migration being the main point of contact between Indra and Vivo to ensure quality.
+The platform was successfully migrated, and later the same team, led by me, was responsible to implement new requirements and improvements.
 
 .Techs
 Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, Git

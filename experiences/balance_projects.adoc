@@ -34,10 +34,10 @@ Java, Tapestry, BIRT, Spring Framework, Log4J, EhCache, Hibernate, Tomcat, SAP P
 C&A - https://www.cea.com.br
 
 .Description
-A friendly web interface aimed to the retail employees to avoid make them use SAP/R3 GUI, the provided web interface allowed the subsidiaries of C&A perform operational applications to the matrix. The web interface was just a proxy to the function modules created in SAP. The idea was to streamline the ordering process of the subsidiaries without providing all infrastructure SAP/R3 GUI to them.
+A friendly web interface aimed to the retail employees to avoid make them use SAP/R3 GUI, the provided web interface allowed the subsidiaries of C&A perform operational applications to the matrix. This would allow the subsidiaries to request the release of funds for the payment of suppliers, place orders for store supplies, etc.
 
 .Attributions
-I created the web interface, integrate it with SAP Function Modules and created the SAP Function Modules as well. Did the whole system implementation.
+I created the web interface, integrate it with SAP Function Modules and created the SAP Function Modules as well. Did the whole system implementation. The web interface was just a proxy to the function modules created in SAP. The idea was to streamline the ordering process of the subsidiaries without providing all infrastructure SAP/R3 GUI to them.
 
 .Techs
 Java, Spring Framework, Struts, Log4J, JCO, ABAP, Hibernate, Tomcat, Oracle, Ant, SVN

@@ -13,5 +13,5 @@ Some of the projects that I helped with include:
 - MetroBank, London: I deployed and mentored the MetroBank team in using the Backbase solution.
 - Valiant Bank, Switzerland: I executed a full Backbase project, including implementation, deployment, and production support.
 - CornerBank Group, Switzerland: I provided consultancy and mentoring services.
-- Íslandsbanki, Iceland: Successful Pre-Sales engagement demonstrating how Backbase platform works to key management and executive members of the bank.
+- Íslandsbanki, Iceland: Successful Pre-Sales engagement demonstrating how Backbase platform works for key management and executive members of the bank.
 - CIMB Bank, Thailand: Delivered training on Backbase for Bank employees.

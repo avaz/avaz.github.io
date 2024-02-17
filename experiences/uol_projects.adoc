@@ -2,7 +2,7 @@
 
 ===== Commission System 
 .Description
-A system to calculate and trigger the order of payment request for the UOL sales partners spread across entire country. This system had to deal with a considerable amount of data which were all orders sold per month by each partner. 
+A system to calculate and trigger the order of payment request for the UOL sales partners spread across the entire country. This system had to deal with a considerable amount of data which were all orders sold per month by each partner.
 
 .Attributions
 When I joined this project this billing engine was performing poorly, taking around *6 days* to finish the commission calculation. I rewrote the whole calculation engine from scratch in *2 months* and by changing completely the commission calculation strategy the total time to finish the calculation was reduced to *2 minutes*.
@@ -12,10 +12,10 @@ Java 5, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Git, Jetty
 
 ===== Veridcad Fraud Prevention and Analysis System
 .Description
-A rule based system to pre and post validate any subscription attempt of any service within the UOL company with the goal to avoid fraud. The system applies rules like check if the Brazilian Social Security Number (CPF) is valid and active within the Brazilian tax authorities institution, if the CPF is registered within credit protection companies and other internal rules.
+A rule-based system to pre and post validates any subscription attempt of any service within the UOL company with the goal to avoid fraud. The system applies rules like check if the Brazilian Social Security Number (CPF) is valid and active within the Brazilian tax authorities institution, if the CPF is registered within credit protection companies and other internal rules.
 
 .Attributions
-A coordinated a team of 8 people to deploy this solution. I was responsible to gather the requirements with the project stakeholders and translate them in functional requirements with the team and supervise the overall implementation.
+I coordinated a team of 8 people to deploy this solution. I was responsible to gather the requirements with the project stakeholders and translate them in functional requirements with the team and supervise the overall implementation.
 
 .Techs
 Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Git, Jetty

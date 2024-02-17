@@ -14,20 +14,21 @@ Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS
 ===== Service Platform
 
 .Description
-A platform to apply targeted promotions to customers based on their mobile devices. The platform consumes CDR files and based on the IMEI used on a phone call or sms message enables promotions to customers.
+A platform to apply targeted promotions to customers based on their mobile devices.
 
 .Attributions
-I architected and implemented the whole platform, handling the CDR consumption, parsing and wrangling, and afterwards applying the configured promotion based on the device found in the CDR. This was a heavy data processing platform which I assured scalability, performance and data integrity.
+The platform works by consuming CDR files and based on the IMEI used on a phone call or sms message enables promotions to customers.
+I architected and implemented the whole platform, handling the CDR consumption, parsing and wrangling, and afterward applying the configured promotion based on the device found in the CDR. This was a heavy data processing platform that I assured scalability, performance and data integrity.
 
 .Techs
 Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS
 
 ===== SHIFT - Fraud Analysis and Prevention
 .Description
-A platform to help Nextel Revenue Assurance department to analysis and prevent fraud. This systems was actually developed by Nextel Argentina.
+A platform to help Nextel Revenue Assurance department to analysis and prevent fraud. This systems was actually developed by Nextel Argentina and ported to Nextel Brazil.
 
 .Attributions
-I was the architect responsible for the manage on the technical side the migration to the Brazilian market. First in Argentina I understood the overall system architecture, execution and infrastructure, then I prepared the same requirements on Nextel Brazil infrastructure and finally I did the migration, deploying the platform on Nextel Brazil and adapting all the rules to the Brazilian market.
+I was the architect responsible for the manage on the technical side the migration to the Brazilian market. First in Argentina, I understood the overall system architecture, execution and infrastructure, then I prepared the same requirements on Nextel Brazil infrastructure and finally I did the migration, deploying the platform on Nextel Brazil and adapting all the rules to the Brazilian market.
 
 .Techs
 Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS
@@ -35,7 +36,8 @@ Java, Maven, JUnit, Spring Framework, Log4J, EhCache, Hibernate, Weblogic, BSCS
 ===== Traffic Analysis
 
 .Description:
-A platform to monitoring and ensure that each one of the CDR files that arrived for billing would make into the billing platform (BSCS). There are some stages that a CDR file pass through until finally the services use described on it gets billed. This kept a track of each file showing on which stage in the chain it was triggering alarms in case of a a file stayed in the same stage for a configured threshold.
+A platform to monitoring and ensure that each one of the CDR files that arrived for billing would make into the billing platform (BSCS). There are some stages that a CDR file pass through until finally the services used by the user get billed.
+This system had the goal of keep track of each file showing on which stage in the chain it was triggering alarms in case of a a file stayed in the same stage for a configured threshold.
 
 .Attributions
 I let a team of 3 to implement the whole system.

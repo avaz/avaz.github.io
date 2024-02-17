@@ -1,7 +1,8 @@
 === UOL - https://www.uol.com.br
 
 .Project Coordinator and Solution Architect, January 2013 - January 2016 (3 years 1 month), São Paulo Area, Brazil
-My main responsibilities is to coach teams, design and implement systems, do trainings, suggest and make prove of concept of new frameworks and tools trying to improve overall productivity of the team that I work with.
+
+My main responsibilities are to coach teams, design and implement systems, do trainings, suggest and make proof of concept of new frameworks and tools trying to improve overall productivity of the team that I work with.
 
 *Some of my main accomplishments:* 
 

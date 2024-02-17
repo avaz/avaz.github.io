@@ -1,6 +1,7 @@
 = Anderson Duarte Vaz
 :stylesheet: ./asciidoctor.css
 :linkcss:
+:nofooter:
 
 include::headline.adoc[]
 include::contact.adoc[]
