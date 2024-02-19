@@ -8,7 +8,7 @@ Hands-on Software Engineer with 17+ years of experience out of 8+ years in manag
 |Behavioral |Technical
 
 |
-👨🏽‍💻Very hands-on professional, capable of design and implement software solutions applying the most variety of standards, architectures, SAAS and technologies mainly with Java, Python and Javascript focusing in distributed systems and data engineering for machine learning and model operations and customization.
+👨🏽‍💻Very hands-on professional, capable of designing and implementing software solutions applying the most variety of standards, architectures, SAAS and technologies mainly with Java, Python and Javascript focusing in distributed systems and data engineering for machine learning and model operations and customization.
 
 👨🏻‍🏫 Lead and mentor a team of software engineers, fostering a collaborative and innovative work environment. Provide technical guidance and expertise to the team, keeping up to date with the latest industry trends and best practices.
 
@@ -16,7 +16,7 @@ Hands-on Software Engineer with 17+ years of experience out of 8+ years in manag
 
 📈 Manage software development projects from concept to deployment, ensuring timely delivery and quality. Effectively manage resources, and timelines to meet project objectives.
 
-👩🏻‍🤝‍👩🏼🧑‍🤝‍🧑👩🏽‍🤝‍👨🏾Can easily get along together with cross-functional teams of diverse set of skills like software and machine learning engineers, data scientists, product managers, executive stakeholders, to align efforts with company goals.
+👩🏻‍🤝‍👩🏼🧑‍🤝‍🧑👩🏽‍🤝‍👨🏾Can easily get along together with cross-functional teams of a diverse set of skills like software and machine learning engineers, data scientists, product managers, executive stakeholders, to align efforts with company goals.
 
 🗣️ Strong communication skills in written and verbal form being able to deal with internal and external stakeholders to provide updates, gather requirements, and address any technical concerns.
 
@@ -28,7 +28,7 @@ Hands-on Software Engineer with 17+ years of experience out of 8+ years in manag
 
 🫶🏽 Lover and in favor of old but not even a bit afraid in try the new. Technologies and paradigms are enjoyable things to deal with.
 
-📚 Values good practices, design patterns and clean code. Solid knowledge in a wide set of programming languages, frameworks, tools, and technologies in general.
+📚 Values good practices, design patterns, and clean code. Solid knowledge in a wide set of programming languages, frameworks, tools, and technologies in general.
 
 ♻️ Contributor and stronger supporter of open source software.
 
@@ -69,7 +69,7 @@ statistical analysis techniques.
 |===
 
 == Recent projects:
-- Quality Estimation API (https://api.taus.net), application that accurately estimates the quality of machine translation output. The API is built using Python, FastAPI, Pydantic, PySpark, and PyTorch. The API is deployed on AWS EC2 GPU/cuda instances with Spring Cloud Gateway and Memached for caching. The API is deployed using Docker and GitHub Actions. Also, a full MLOps pipeline is in place for training and deploying new models, using PyTorch, Iterative/DVC/TPI, AWS S3/Lambdas. -- TAUS 2023
+- Quality Estimation API (https://api.taus.net), an application that accurately estimates the quality of machine translation output. The API is built using Python, FastAPI, Pydantic, PySpark, and PyTorch. The API is deployed on AWS EC2 GPU/cuda instances with Spring Cloud Gateway and Memached for caching. The API is deployed using Docker and GitHub Actions. Also, a full MLOps pipeline is in place for training and deploying new models, using PyTorch, Iterative/DVC/TPI, AWS S3/Lambdas. -- TAUS 2023
 - Revamped the TAUS website (https://taus.net), replaced Joomla with using Nuxt.js v3, Tailwind CSS, and Storyblok CMS. Joomla is great and a nice CMS but we had just one person in the company who knew how to work with it, with the revamp we have a much more flexible and modern website that is straightforward to maintain and update by anyone in the company. The website is deployed on AWS ECS using Docker and GitHub Actions. This application also integrates with other microservices for authentication and authorization and user management. -- TAUS 2022
 - TAUS Data Marketplace (https://datamarketplace.taus.net), a marketplace for language data. The marketplace is built using Java 17, Spring Boot/MVC/Security/Kafka/Data, JPA/Hibernate, QueryDSL, Jackson, Flyway, Gradle, AWS RDS MySQL. The marketplace is deployed on AWS ECS using Docker and GitHub Actions with OpenId Connect authorization.
 -- TAUS 2022
