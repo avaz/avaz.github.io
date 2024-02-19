@@ -26,11 +26,11 @@ Python, Hadoop, Spark, ScikitLearn, Pandas, Luigi, Jenkins
 Bankia Spain - https://www.bankia.com/en/
 
 .Description:
-A platform to allow ingestion, processing and streamline paper forms such as tax submissions, mortgages, loans, etc. The platform receives the scanned document, recognise its  the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text and by use other machine learning models it identifies things like ticked check boxes, afterwards with all the information captured send it to the proper Bank system for further processing.
+A platform to allow ingestion, processing of paper forms such as tax submissions, mortgages, loans, etc. enabling automatic submission to the target system without human intervention. The platform receives the scanned document, recognise its the type through machine learning image recognition models, split it apart in different sub images, apply OCR to gather the text, and by using other machine learning models it identifies things like ticked check boxes, with all the information captured send it to the proper Bank system for further processing.
 This project led to a huge savings in money and time for the Bank by a significant decrease in manual and error-prone processing.
 
 .Attributions:
-I was responsible for create what was called as a 'Model Management Framework' component whose goal was to create a functional abstraction layer between the data scientists and the whole automated infrastructure. The MMF orchestrated all the steps needed to create a machine model such as testing, training, deploy and releasing. Applying strategies as 'Champion/Challenger' with multi model deployment. Together with the framework a business user interface was created for the data scientist trigger training, deployments and releases for the models managed by the framework.
+I was responsible for creating what was called as a 'Model Management Framework' module whose goal was to create a functional abstraction layer between the data scientists and the whole automated infrastructure. The MMF orchestrated all the steps needed to create a machine model such as testing, training, deploy and releasing. Applying strategies as 'Champion/Challenger' with multimodel version deployment. Together with the framework, a business user interface was created for the data scientist trigger training, deployments and releases for the models managed by the framework.
 
 .Techs:
 Python, AWS Cloud, Tensorflow, Keras, Jenkis, Bamboo, Nexus, Kafka, HBase, Docker, Ansible
@@ -41,10 +41,10 @@ Python, AWS Cloud, Tensorflow, Keras, Jenkis, Bamboo, Nexus, Kafka, HBase, Docke
 ENISA European Union - https://www.enisa.europa.eu/
 
 .Description:
-Artificial intelligence enabled Cyber Security Awareness Machine. This system index cyber security information from different sources and apply NLP and Knowledge Graph techniques to enable query the information in a more human friendly way. Allowing the user to full text search the gathered information and create awareness report to spread throughout European Union.
+Artificial intelligence enabled cybersecurity Awareness Machine. This system index cybersecurity information from different sources and apply NLP and Knowledge Graph techniques to enable to query the information in a more human friendly way. Allowing the user to full text search the gathered information and create an awareness report to spread throughout the European Union.
 
 .Attributions:
 I helped to define the base architecture, managed the Elastic Search cluster, implemented the content scrapping web spiders, implemented the user interface and managed as a whole the technical aspects of the project.
 
 .Techs:
-Python, Elastic Search, Covalent (Angular), NLP, Machine Learning, Knowledge Graph, Docker, Ansible, AWS Cloud.
+Python, Elasticsearch, Covalent (Angular), NLP, Machine Learning, Knowledge Graph, Docker, Ansible, AWS Cloud, Scrappy.

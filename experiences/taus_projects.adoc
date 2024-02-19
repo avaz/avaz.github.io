@@ -2,44 +2,37 @@
 
 ===== Quality Estimate API
 
-Designed Machine Learning operations workflow
-where machine learning engineers can training models using GPUs or CPUs in a cost-effective manner
-using tools that favours serverless and affordable infrastructure machine instances,
-with support for job save and resuming and knowledge sharing among the team members.
-This greatly improves our Machine Learning/NLP researching projects and operations.
+Designed Machine Learning operations workflow where machine learning engineers can train models using GPUs or CPUs in a cost-effective manner using tools that favours serverless and affordable infrastructure machine instances, with support for job save and resuming and knowledge sharing among the team members. This greatly improves our Machine Learning/NLP researching projects and operations.
 
 Architected and implemented TAUS Quality Estimate API which process 50mi+ characters daily.
 The solution offers metrics scoring that evaluates how good is a machine translation.
-This is the company's flagship product
-with used by big tech customers in ride-sharing and transportation network industry,
-fraud prevention services, LSP's and others.
-It's a HTTP API with a MLOps workflow, developed using Python, PyTorch, Poetry, AWS EC2+GPU.
+This is the company's flagship product with used by big tech customers in ride-sharing and transportation network industry, fraud prevention services, LSP's and others.
+It's an HTTP API with a MLOps workflow, developed using Python, PyTorch, Poetry, AWS EC2+GPU.
 
 .Attributions:
-I was responsible for the whole development of the API from scratch, excluding the Machine Learning model training.
-However, I implemented the whole model management process and the API to serve the model.
+I was responsible for the whole development of the API from scratch, excluding the Machine Learning model training. However, I implemented the whole model management process and the API to serve the model.
 
 .Techs:
-Python, FastAPI, AWS ECS, EC2(GPU), S3, Lambda, Docker, Github, Github Actions, Python Poetry.
+Python, FastAPI, AWS ECS, EC2(GPU), S3, Lambda, Docker, GitHub, GitHub Actions, Python Poetry.
 
 
 ===== Data Marketplace
 https://datamarketplace.taus.net/
 
-An e-commerce platform to allow selling and buying Language Data (i.e., translations).
-The platform allows the user to upload a file with the data to be sold,
+An e-commerce platform to allow trading Language Data i.e., translations.
+The platform allows publishing language data for sale,
 define the price and additional metadata like domain and content-type.
 The platform also allows the user to buy data from other users.
 The platform is integrated with a payment gateway
 to allow the user to pay for the data and be paid when their data is sold.
 
 .Attributions:
-I was hired to create the platform from scratch.
+I created the platform from scratch.
 I developed it in a window of 5 months together with another developer.
 Out of this project was created the Data Language Architecture which currently is the main data architecture for the company.
 
 .Techs:
-Java, Spring, JPA, VueJS, AWS RDS, SNS, SQS, S3, Lambda, Stripe, Docker, Github, Github Actions, Gradle.
+Java, Spring Framework/MVC/Data/Kafka/Cloud/Security, JPA, VueJS, AWS RDS, SNS, SQS, S3, Lambda, Stripe, Docker, Github, Github Actions, Gradle.
 
 ===== Data Language Architecture
 
@@ -87,7 +80,7 @@ I helped to define the base architecture, defined the technology stack,
 and more importantly, mentored the team to deliver the project.
 
 .Techs:
-Java, SpringBoot, VueJS/NuxtJS, Storyblok CMS, AWS ECS, RDS.
+Java, SpringBoot, VueJS/NuxtJS, Storyblok CMS, AWS ECS, ECR, RDS, Docker.
 
 
 ====== Other Projects
