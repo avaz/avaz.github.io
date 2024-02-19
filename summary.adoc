@@ -3,36 +3,70 @@
 Hands-on Software Engineer with 17+ years of experience out of 8+ years in management leading teams 20+ software and machine learning engineers. Recently, I've been focusing on data engineering for machine learning projects, specifically in the area of Data Architectures with focus on MLOps and machine learning productization. I hold a major in Computer Sciences and a Master in Business Administration.
 
 == Skills
-Below is a list of tools, technologies, concepts and languages I've worked with or that have interest in. This is not an extensive list, but it gives an idea of what I feel comfortable working with:
 
-- *Java*: Core, JPA/Hibernate/QueryDSL, JDBC, Bean Validation, NIO, Streams, Executor Service/Concurrency.
+|===
+|Behavioral |Technical
+
+|
+👨🏽‍💻Very hands-on professional, capable of design and implement software solutions applying the most variety of standards, architectures, SAAS and technologies mainly with Java, Python and Javascript focusing in distributed systems and data engineering for machine learning and model operations and customization.
+
+👨🏻‍🏫 Lead and mentor a team of software engineers, fostering a collaborative and innovative work environment. Provide technical guidance and expertise to the team, keeping up to date with the latest industry trends and best practices.
+
+👀 Oversee the design, development, and maintenance of software solutions, with a strong focus on Java, Python, Javascript and Machine Learning.
+
+📈 Manage software development projects from concept to deployment, ensuring timely delivery and quality. Effectively manage resources, and timelines to meet project objectives.
+
+👩🏻‍🤝‍👩🏼🧑‍🤝‍🧑👩🏽‍🤝‍👨🏾Can easily get along together with cross-functional teams of diverse set of skills like software and machine learning engineers, data scientists, product managers, executive stakeholders, to align efforts with company goals.
+
+🗣️ Strong communication skills in written and verbal form being able to deal with internal and external stakeholders to provide updates, gather requirements, and address any technical concerns.
+
+🧠 Entrepreneurship mindset, proven track of making business thrive through software with solid problem solving skills.
+
+🚅 Defining and driving the organization's technology strategy and roadmap.
+
+🧑🏽‍🎓 Hold a Major in Computer Science, a Master’s in Business Administration, and a comprehensive set of industry technology certifications and specializations.
+
+🫶🏽 Lover and in favor of old but not even a bit afraid in try the new. Technologies and paradigms are enjoyable things to deal with.
+
+📚 Values good practices, design patterns and clean code. Solid knowledge in a wide set of programming languages, frameworks, tools, and technologies in general.
+
+♻️ Contributor and stronger supporter of open source software.
+
+👾 Skilled video-game player, CoD mobile being the one most played at the moment.
+
+🫐 Açaí addicted, best fruit in the world.
+
+|
+*Java*: Core, JPA/Hibernate/QueryDSL, JDBC, Bean Validation, NIO, Streams, Executor Service/Concurrency.
 I'm well-versed in the Spring framework and its various modules, such as Spring Boot, MVC, Security, Kafka, Camel, Data, Cloud, Rest Docs and others.
 Other relevant libraries/frameworks Flyway, Jackson/Custom De/Serializers/View Groups, Gradle, and Maven.
 
-- *Python*: I have focused on Python for the last 6 years. I work with libraries such as pathlib, os, pandas, numpy, scikit-learn, scipy, PySpark, Keras, PyTorch, Pydantic, Spotify Luigi, BeautifulSoup4, SQLAlchemy, FastAPI, setuptools, poetry, and requirements.txt. I also have experience with Pyenv/Virtualenv and (mini)conda.
+*Python*: I have focused on Python for the last 6 years. I work with libraries such as pathlib, os, pandas, numpy, scikit-learn, scipy, PySpark, Keras, PyTorch, Pydantic, Spotify Luigi, BeautifulSoup4, SQLAlchemy, FastAPI, setuptools, poetry, and requirements.txt. I also have experience with Pyenv/Virtualenv and (mini)conda.
 
-- *Front End*: JavaScript, Node.js/npm, Vue.js v2/3, Nuxt.js v3. Additionally, HTML, CSS/Tailwind CSS, Storyblok CMS, and Strapi CMS. I have a good understanding of the Node.js and JavaScript ecosystem and can do front-end development.
+*Front End*: JavaScript, Node.js/npm, Vue.js v2/3, Nuxt.js v3. Additionally, HTML, CSS/Tailwind CSS, Storyblok CMS, and Strapi CMS. I have a good understanding of the Node.js and JavaScript ecosystem and can do front-end development.
 
-- *Architectural Styles*:
+*Architectural Styles*:
 I have experience with microservices, event-driven, and serverless architectures.
 Of course, I have created monolith applications and have experience with the strangler pattern.
 
-- *Integration*: Apache Camel, CXF, web/HTTP/ReST APIs.
+*Integration*: Apache Camel, CXF, web/HTTP/ReST APIs.
 
-- *Data Engineering*: Batch, streaming, data pipelines, and data lakes, Databricks lakehouse (medallion pattern), data warehouses and data modeling.
+*Data Engineering*: Batch, streaming, data pipelines, and data lakes, Databricks lakehouse (medallion pattern), data warehouses and data modeling.
 
-- *Business Intelligence*: Databricks Visualization support, Tableu, Hex, Evidence, Apache Superset.
+*Business Intelligence*: Databricks Visualization support, Tableu, Hex, Evidence, Apache Superset.
 
-- *Storage/Databases/Cache*: I have solid knowledge of SQL, which helps me when working with various persistence technologies. I've used MySQL, PostgreSQL, SQLite, MongoDB, Hive, Pig, Hadoop, Memcache, Redis, DuckDB, and vector databases such as Milvus.
+*Storage/Databases/Cache*: I have solid knowledge of SQL, which helps me when working with various persistence technologies. I've used MySQL, PostgreSQL, SQLite, MongoDB, Hive, Pig, Hadoop, Memcache, Redis, DuckDB, and vector databases such as Milvus.
 
-- *Analytics*: I have an understanding of MapReduce, CDC concepts, ETL, data ingestion, cleaning, wrangling, transformation, analytics, and reporting/BI. I've worked with Apache Kafka/KSQLDB, (py)Spark, and Delta Lake. Additionally, I'm familiar with
+*Analytics*: I have an understanding of MapReduce, CDC concepts, ETL, data ingestion, cleaning, wrangling, transformation, analytics, and reporting/BI. I've worked with Apache Kafka/KSQLDB, (py)Spark, and Delta Lake. Additionally, I'm familiar with
 statistical analysis techniques. 
 
-- *DevOps/IaC*: I have experience with GitHub Actions, Jenkins, AWS CDK/CloudFormation, Terraform, Docker, Docker Compose, and Kubernetes.
+*DevOps/IaC*: I have experience with GitHub Actions, Jenkins, AWS CDK/CloudFormation, Terraform, Docker, Docker Compose, and Kubernetes.
 
-- *MLOps*: Custom MLOps pipelines, Iterative/DVC/TPI, MLflow, Ray.io, AWS SageMaker, and Databricks MLflow.
+*MLOps*: Custom MLOps pipelines, Iterative/DVC/TPI, MLflow, Ray.io, AWS SageMaker, and Databricks MLflow.
 
-- *Infrastructure/Cloud*: I'm most experienced with AWS and have run several production workloads with autoscale support, following the Well-Architected Framework, also, I know managed services like AWS Glue, Redshift, AppFlow, Lambda, SNS, SQS, S3, ECS, EC2(GPU), Aurora/RDS, CodeCommit/Deploy. I know very well Google Cloud and services like BigQuery, Cloud Storage, Cloud Spanner, and Cloud Functions, Monitoring, Compute. On Azure I have basic knowledge of services like Azure Functions, Azure Storage, Azure SQL, Azure DevOps, and Azure Kubernetes Service. I have knowledge with monitoring and logging tools like AWS CloudWatch, Google Cloud Monitoring, Grafana, and Prometheus.
+*Infrastructure/Cloud*: I'm most experienced with AWS and have run several production workloads with autoscale support, following the Well-Architected Framework, also, I know managed services like AWS Glue, Redshift, AppFlow, Lambda, SNS, SQS, S3, ECS, EC2(GPU), Aurora/RDS, CodeCommit/Deploy. I know very well Google Cloud and services like BigQuery, Cloud Storage, Cloud Spanner, and Cloud Functions, Monitoring, Compute. On Azure I have basic knowledge of services like Azure Functions, Azure Storage, Azure SQL, Azure DevOps, and Azure Kubernetes Service. I have knowledge with monitoring and logging tools like AWS CloudWatch, Google Cloud Monitoring, Grafana, and Prometheus.
+
+|===
 
 == Recent projects:
 - Quality Estimation API (https://api.taus.net), application that accurately estimates the quality of machine translation output. The API is built using Python, FastAPI, Pydantic, PySpark, and PyTorch. The API is deployed on AWS EC2 GPU/cuda instances with Spring Cloud Gateway and Memached for caching. The API is deployed using Docker and GitHub Actions. Also, a full MLOps pipeline is in place for training and deploying new models, using PyTorch, Iterative/DVC/TPI, AWS S3/Lambdas.
