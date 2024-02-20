@@ -57,23 +57,18 @@ Java, Spring, QueryDSL/SQL, Apache Camel, AWS Aurora, SNS, SQS, S3, Lambda, Dock
 
 The situation was the following, https://www.taus.net;
 the main company website was hosted by Joomla, an exceptional CMS platform.
-However, there was only one person in the company maintaining it and the person was not so happy.
+However, there was only one person in the company maintaining it and the engineer was not so happy with that.
 All the other engineers were working with Java and modern NodeJS frameworks.
 This wasn't interesting to anybody involved in this situation.
-After a thoughtful analysis, I made a plan,
-assembled a team of four people, two juniors, one senior, and I,
-and we moved on to create a new website with a new technology stack.
-The senior engineer was responsible for the backend,
-which included migrating user base from Joomla to a new database
-and also provides an API for authentication and corporate data.
-The juniors were responsible for the frontend and integrate with the new chosen CMS.
+After a thoughtful analysis, I made a plan, assembled a team of four people, two juniors, one senior, and I, and we moved on to create a new website with a new technology stack.
+The senior engineer was responsible for the backend, which included migrating user base from Joomla to a new database and also provides an API for authentication and corporate data.
+The mid-seniors were responsible for the frontend and integrate with the new chosen CMS (Storyblok). A senior engineer and I were responsible to create what we called Corporate API service which holds user, products, and other corporate data provided to the website and all other company products.
 In 2 development cycles (12 weeks) we were up and running with the website
 that is live to this day (https://www.taus.net),
-with support for product checkout integrated with several payment brokers.
+with support for product checkout integrated with several payment brokers, our CRM (HubSpot) offering a multitude of corporate services.
 Giving the component-based approach taken to build the website, currently,
-business people can create new pages and components without the need for a developer in a fully decoupled way.
-The two juniors at the beginning of the project were operating like mid-seniors by the end.
-A lot of knowledge was transferred, and the team was able to deliver the project on time.
+business people can create new pages and components without the need for an engineer to help them.
+A lot of knowledge was transferred, and everyone gained a lot of experience in the process.
 
 .Attributions:
 I helped to define the base architecture, defined the technology stack,
