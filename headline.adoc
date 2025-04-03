@@ -1,1 +1,1 @@
-image:avatar-head-no-bg.png[Avatar,300,300,float="left",align="center"]
+image:avatar-head.png[Avatar,300,300,float="left",align="center"]

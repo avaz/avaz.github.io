@@ -1,4 +1,4 @@
-= Anderson Duarte Vaz
+= Anderson Vaz
 :stylesheet: ./asciidoctor.css
 :linkcss:
 :nofooter:

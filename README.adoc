@@ -3,7 +3,7 @@ https://avaz.github.io
 
 == Requirements
 
-=== Install Asciidoctor
+=== Install Nix
 
 [https://nixos.org]
 

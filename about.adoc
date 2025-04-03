@@ -1,0 +1,11 @@
+= About
+
+I'm a high skilled software engineer with a long career in the software industry.
+Over the years, I've worked on a variety of projects, from small startups to large enterprises, and have gained a wealth of experience in different technologies and programming languages.
+I have a strong background in software development, with expertise in languages such as Java, Python, and JavaScript. I'm also well-versed in web development frameworks like VueJS and Nuxt, and ReactJS and NextJS, as well as backend technologies like Node.js and Spring Boot.
+Key points of my career include:
+- I discovered my passion for software engineering while in the university, around 2000.
+- Professionally, I started as a internet help desk analyst, soon enough I saw the opportunity in creating a web intranet to help with the support process. I created it using Microsoft ASP and Microsoft Access. The application had a huge positive impact with 500+ analyst using it daily. That was my first professional software project and my ticket to a software engineering career. This was around 2001.
+- I did a lot of consultancy work from 2004 to 2010. Worked at many companies of industries like: Telecom, Finance, Insurance, and Retail. Mainly with Java and its ecosystem, but got exposed a lot to Ruby on Rais when it came out by the same period. Also to SAP which I got my certification in ABAP.
+- On 2007 I started work as a Java instructor for several training institutions including Sun Microsystem which later was bought by Oracle. Up to this day I'm a certified Oracle instructor for Java technologies.
+-
